@@ -57,7 +57,7 @@ def preprocess_all_data():
                     try:
                         # Convert to shapely geometry and simplify
                         geom = shape(geometry)
-                        simplified_geom = geom.simplify(tolerance=0.05, preserve_topology=True)
+                        simplified_geom = geom.simplify(tolerance=0.001, preserve_topology=True)
                         
                         simplified_feature = {
                             "type": "Feature",

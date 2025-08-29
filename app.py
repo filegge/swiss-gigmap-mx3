@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 import folium
 import json
-from streamlit_folium import st_folium
+from streamlit_folium import st_folium, folium_static
 from datetime import datetime, timedelta
 import logging
 import threading
@@ -35,19 +35,22 @@ st.set_page_config(
 
 def create_gig_tooltip(gigs: list, municipality_name: str) -> str:
     """Create simple HTML tooltip for quick municipality info"""
+    style = "font-size: 14px;"
     if not gigs:
-        return f"<b>{municipality_name}</b><br>No upcoming gigs"
+        content = f"<b>{municipality_name}</b><br>No upcoming gigs"
+    else:
+        content = f"<b>{municipality_name}</b><br>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}<br>Click for details"
     
-    return f"<b>{municipality_name}</b><br>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}<br>Click for details"
+    return f'<div style="{style}">{content}</div>'
 
 def create_gig_popup(gigs: list, municipality_name: str) -> str:
     """Create detailed HTML popup with clickable band links"""
     if not gigs:
         return f"<h3>{municipality_name}</h3>No upcoming gigs"
     
-    html = f"<h3>{municipality_name}</h3>"
-    html += f"<p><b>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}</b></p>"
-    html += "<div style='max-height: 400px; overflow-y: auto; width: 350px;'>"
+    html = f"<h3 style='font-size: 20px;'>{municipality_name}</h3>"
+    html += f"<p style='font-size: 14px;'><b>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}</b></p>"
+    html += "<div style='max-height: 400px; overflow-y: auto; font-size: 16px;'>"
     
     # Sort gigs by date (oldest first as requested)
     sorted_gigs = sorted(gigs, key=lambda x: x.get("parsed_date") or "", reverse=False)
@@ -152,7 +155,7 @@ def create_interactive_map(municipality_gigs: dict, geo_data: dict) -> folium.Ma
                 "fillOpacity": fill_opacity,
             },
             tooltip=folium.Tooltip(tooltip_html, max_width=250),
-            popup=folium.Popup(popup_html, max_width=450)
+            popup=folium.Popup(popup_html, max_width=250)
         ).add_to(m)
     
     return m
@@ -318,7 +321,7 @@ def main():
     # Create and display map
     try:
         map_obj = create_interactive_map(municipality_gigs, geo_data)
-        st_folium(map_obj, width=None, height=500)
+        folium_static(map_obj, height=500, width=None)
     except Exception as e:
         import traceback
         st.error(f"Failed to create map: {e}")
