@@ -31,12 +31,12 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-def create_gig_tooltip(gigs: list) -> str:
+def create_gig_tooltip(gigs: list, municipality_name: str) -> str:
     """Create simple HTML tooltip for quick municipality info"""
     if not gigs:
-        return "No upcoming gigs"
+        return f"<b>{municipality_name}</b><br>No upcoming gigs"
     
-    return f"<b>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}</b><br>Click for details"
+    return f"<b>{municipality_name}</b><br>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}<br>Click for details"
 
 def create_gig_popup(gigs: list, municipality_name: str) -> str:
     """Create detailed HTML popup with clickable band links"""
@@ -137,7 +137,7 @@ def create_interactive_map(municipality_gigs: dict, geo_data: dict) -> folium.Ma
         fill_opacity = 0.8
         
         # Create tooltip and popup
-        tooltip_html = create_gig_tooltip(gigs)
+        tooltip_html = create_gig_tooltip(gigs, municipality_name)
         popup_html = create_gig_popup(gigs, municipality_name)
         
         # Add municipality to map
@@ -254,13 +254,7 @@ def main():
     total_municipalities_with_gigs = len(municipality_gigs)
     total_municipalities = metadata.get('total_municipalities', 2175)
     
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        st.metric("Total Gigs", total_gigs)
-    with col2:
-        st.metric("Municipalities with Gigs", total_municipalities_with_gigs)
-    with col3:
-        st.metric("Coverage", f"{total_municipalities_with_gigs}/{total_municipalities}")
+    st.metric("Total Gigs", total_gigs)
     
     # Map section (full width)
     st.subheader("🗺️ Interactive Map")
@@ -305,20 +299,27 @@ def main():
     # Sidebar with additional info
     with st.sidebar:
         st.header("ℹ️ Information")
-        st.markdown("This app visualizes live music gigs across Switzerland using official data.")
+        st.image("https://www.srgssr.ch/fileadmin/dam/images/downloads/SRG_SSR_RGB.png")
+        st.markdown("This app visualizes live music gigs across Switzerland using official data from the mx3 platform provided by SRG-SSR.")
         
         st.subheader("Legend")
         st.markdown("""
-        - **Red municipalities**: Have upcoming gigs
-        - **Gray municipalities**: No upcoming gigs  
+        - **Red municipalities**: Have most upcoming gigs
         - **Hover** over municipalities to see gig details
-        - **Click** band names to visit their profiles
+        - **Click** band names to visit their mx3 profiles
         """)
         
         if processed_gigs:
             latest_update = max([gig.get("parsed_date") for gig in processed_gigs if gig.get("parsed_date")])
             if latest_update:
-                st.markdown(f"**Latest gig:** {latest_update.strftime('%d.%m.%Y')}")
+                if isinstance(latest_update, str):
+                    try:
+                        latest_dt = datetime.fromisoformat(latest_update.replace('Z', '+00:00'))
+                        st.markdown(f"**Latest gig:** {latest_dt.strftime('%d.%m.%Y')}")
+                    except:
+                        st.markdown(f"**Latest gig:** {latest_update}")
+                else:
+                    st.markdown(f"**Latest gig:** {latest_update.strftime('%d.%m.%Y')}")
         
         # Data refresh button
         if st.button("🔄 Refresh Data"):
