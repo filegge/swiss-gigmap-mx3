@@ -1,0 +1,13 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: 
+  - 'build'
+  - '--build-arg'
+  - 'CONSUMER_KEY=${_CONSUMER_KEY}'
+  - '--build-arg' 
+  - 'CONSUMER_SECRET=${_CONSUMER_SECRET}'
+  - '-t'
+  - 'gcr.io/$PROJECT_ID/${_SERVICE_NAME}'
+  - '.'
+images:
+- 'gcr.io/$PROJECT_ID/${_SERVICE_NAME}'

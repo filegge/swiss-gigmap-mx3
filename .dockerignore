@@ -59,10 +59,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Preprocessing and development scripts (not needed in production)
-data_fetcher.py
-geo_processor.py
-preprocess_data.py
+# Development scripts not needed in production
 refresh_data.sh
 
 # Raw data files (only processed JSONs needed in production)

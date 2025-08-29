@@ -14,10 +14,9 @@ RUN apt-get update && apt-get install -y \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application files (exclude test files from production)
+# Copy application files
 COPY *.py ./
 COPY data/ ./data/
-RUN rm -f test_*.py pytest.ini test.sh
 
 # Run data preprocessing to get fresh data at build time
 ARG CONSUMER_KEY
@@ -27,6 +26,9 @@ ENV CONSUMER_SECRET=$CONSUMER_SECRET
 
 # Fetch fresh data during build (fallback to existing data if API fails)
 RUN python preprocess_data.py || echo "⚠️  Using existing data files"
+
+# Remove test files from production (after preprocessing)
+RUN rm -f test_*.py pytest.ini test.sh
 
 # Create non-root user for security
 RUN useradd --create-home --shell /bin/bash app \

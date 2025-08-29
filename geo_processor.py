@@ -16,17 +16,30 @@ def load_swiss_municipalities() -> Dict:
     """Load and process Swiss municipalities GeoJSON data"""
     logger.info("Loading Swiss municipalities GeoJSON...")
     
-    try:
-        with open("/Users/pmuww/swiss-bandmap/data/gemeinden.geojson", "r", encoding="utf-8") as f:
-            geo_data = json.load(f)
-        
-        logger.info(f"Loaded {len(geo_data['features'])} municipalities")
-        return geo_data
-        
-    except Exception as e:
-        logger.error(f"Failed to load GeoJSON: {e}")
-        st.error("Could not load Swiss municipalities data")
-        return {"type": "FeatureCollection", "features": []}
+    # Try multiple potential paths for GeoJSON file
+    possible_paths = [
+        "data/gemeinden.geojson",
+        "/Users/pmuww/swiss-bandmap/data/gemeinden.geojson",
+        "data/simplified_geo.json"  # Fallback to existing processed data
+    ]
+    
+    for path in possible_paths:
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                geo_data = json.load(f)
+            
+            logger.info(f"Loaded {len(geo_data['features'])} municipalities from {path}")
+            return geo_data
+            
+        except FileNotFoundError:
+            continue
+        except Exception as e:
+            logger.error(f"Failed to load GeoJSON from {path}: {e}")
+            continue
+    
+    logger.error("Could not load any GeoJSON data")
+    st.error("Could not load Swiss municipalities data")
+    return {"type": "FeatureCollection", "features": []}
 
 
 @st.cache_data
