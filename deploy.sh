@@ -4,9 +4,9 @@
 set -e
 
 # Configuration
-PROJECT_ID="your-gcp-project-id"  # Replace with your GCP project ID
+PROJECT_ID="phils-data-appsd"
 SERVICE_NAME="swiss-bandmap"
-REGION="europe-west1"  # EU region for Swiss app
+REGION="europe-west1"
 
 echo "🚀 Deploying Swiss Bandmap to Google Cloud Run..."
 
@@ -31,9 +31,16 @@ if ! gcloud secrets describe mx3-api-credentials >/dev/null 2>&1; then
 EOF
 fi
 
+# Load credentials from .env file
+source .env
+
 # Build and deploy
-echo "🏗️  Building container image..."
-gcloud builds submit --tag gcr.io/$PROJECT_ID/$SERVICE_NAME .
+echo "🏗️  Building container image with fresh data..."
+gcloud builds submit \
+    --tag gcr.io/$PROJECT_ID/$SERVICE_NAME \
+    --build-arg CONSUMER_KEY="$CONSUMER_KEY" \
+    --build-arg CONSUMER_SECRET="$CONSUMER_SECRET" \
+    .
 
 echo "🚀 Deploying to Cloud Run..."
 gcloud run deploy $SERVICE_NAME \
@@ -41,8 +48,8 @@ gcloud run deploy $SERVICE_NAME \
     --platform managed \
     --region $REGION \
     --allow-unauthenticated \
-    --set-env-vars CONSUMER_KEY="$(cat consumer_key.txt | tr -d '\n')" \
-    --set-env-vars CONSUMER_SECRET="$(cat consumer_secret.txt | tr -d '\n')" \
+    --set-env-vars CONSUMER_KEY="$CONSUMER_KEY" \
+    --set-env-vars CONSUMER_SECRET="$CONSUMER_SECRET" \
     --memory 2Gi \
     --cpu 1 \
     --timeout 300 \

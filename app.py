@@ -9,6 +9,8 @@ import json
 from streamlit_folium import st_folium
 from datetime import datetime, timedelta
 import logging
+import threading
+import os
 
 from config import APP_TITLE, APP_DESCRIPTION, MAP_CENTER, MAP_ZOOM
 from data_fetcher import fetch_all_swiss_gigs, process_gigs_data
@@ -204,6 +206,57 @@ def create_gigs_table(gigs_data: list) -> pd.DataFrame:
     return df
 
 
+def is_data_stale() -> bool:
+    """Check if data is older than 24 hours"""
+    try:
+        with open('data/metadata.json', 'r') as f:
+            metadata = json.load(f)
+        
+        last_updated_str = metadata.get('last_updated')
+        if not last_updated_str:
+            return True
+        
+        last_updated = datetime.fromisoformat(last_updated_str)
+        hours_since_update = (datetime.now() - last_updated).total_seconds() / 3600
+        
+        return hours_since_update > 24
+        
+    except (FileNotFoundError, json.JSONDecodeError, KeyError, ValueError):
+        return True
+
+
+def refresh_data_background():
+    """Background thread to refresh data when stale"""
+    try:
+        logger.info("Starting background data refresh...")
+        
+        # Import here to avoid issues if modules not available
+        from preprocess_data import preprocess_all_data
+        
+        # Run data preprocessing
+        preprocess_all_data()
+        
+        # Clear streamlit cache to use fresh data on next requests
+        st.cache_data.clear()
+        
+        logger.info("Background data refresh completed successfully")
+        
+    except Exception as e:
+        logger.error(f"Background refresh failed: {e}")
+
+
+def trigger_background_refresh_if_needed():
+    """Check data age and trigger background refresh if needed"""
+    if not hasattr(st.session_state, 'refresh_checked'):
+        if is_data_stale():
+            logger.info("Data is stale, starting background refresh...")
+            thread = threading.Thread(target=refresh_data_background, daemon=True)
+            thread.start()
+        
+        # Mark that we've checked (only check once per session)
+        st.session_state.refresh_checked = True
+
+
 @st.cache_data(ttl=3600)
 def load_preprocessed_data():
     """Load pre-processed data files for instant app startup."""
@@ -241,6 +294,9 @@ def main():
     """Main Streamlit application"""
     st.title(APP_TITLE)
     st.markdown(f"*{APP_DESCRIPTION}*")
+    
+    # Check if data needs refresh (only once per session)
+    trigger_background_refresh_if_needed()
     
     # Load data
     try:

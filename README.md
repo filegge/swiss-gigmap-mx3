@@ -44,12 +44,13 @@ The app will be available at `http://localhost:8501`
 
 ## Deployment
 
-### Google Cloud Run
+### Google Cloud Run (with Auto-Fresh Data)
 
 1. **Prerequisites**:
    - Google Cloud account with billing enabled
-   - `gcloud` CLI installed and authenticated
+   - `gcloud` CLI installed and authenticated  
    - Docker installed
+   - API credentials in `.env` file
 
 2. **Configure deployment**:
    ```bash
@@ -61,6 +62,17 @@ The app will be available at `http://localhost:8501`
    ```bash
    ./deploy.sh
    ```
+
+#### Data Freshness System
+- **Build-time**: Fresh data fetched during Docker build
+- **Runtime**: Auto-refresh when data >24 hours old  
+- **User Experience**: Always instant loading with ≤48 hour old data
+- **Zero overhead**: No additional GCP services required
+
+### Testing
+```bash
+./test.sh  # Run unit tests
+```
 
 ### Environment Variables
 
