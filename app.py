@@ -32,18 +32,27 @@ st.set_page_config(
 )
 
 def create_gig_tooltip(gigs: list) -> str:
-    """Create HTML tooltip content for municipality with gigs"""
+    """Create simple HTML tooltip for quick municipality info"""
     if not gigs:
         return "No upcoming gigs"
     
-    html = f"<b>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}</b><br><br>"
+    return f"<b>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}</b><br>Click for details"
+
+def create_gig_popup(gigs: list, municipality_name: str) -> str:
+    """Create detailed HTML popup with clickable band links"""
+    if not gigs:
+        return f"<h3>{municipality_name}</h3>No upcoming gigs"
     
-    # Sort gigs by date, show max 5 most recent
-    sorted_gigs = sorted(gigs, key=lambda x: x.get("parsed_date") or datetime.min, reverse=True)
-    display_gigs = sorted_gigs[:5]
+    html = f"<h3>{municipality_name}</h3>"
+    html += f"<p><b>{len(gigs)} upcoming gig{'s' if len(gigs) > 1 else ''}</b></p>"
+    html += "<div style='max-height: 400px; overflow-y: auto; width: 350px;'>"
     
-    for gig in display_gigs:
+    # Sort gigs by date (oldest first as requested)
+    sorted_gigs = sorted(gigs, key=lambda x: x.get("parsed_date") or "", reverse=False)
+    
+    for gig in sorted_gigs:
         band_name = gig.get("band_name", "Unknown Band")
+        band_id = gig.get("band", {}).get("id") if isinstance(gig.get("band"), dict) else gig.get("band_id")
         venue = gig.get("venue", "")
         date_str = ""
         
@@ -58,17 +67,21 @@ def create_gig_tooltip(gigs: list) -> str:
             else:
                 date_str = parsed_date.strftime("%d.%m.%Y")
         
-        html += f"<div style='margin-bottom: 8px;'>"
-        html += f"<b>{band_name}</b><br>"
+        html += f"<div style='margin-bottom: 12px; padding: 8px; background-color: #f9f9f9; border-radius: 4px;'>"
+        
+        # Clickable band name with correct mx3 URL format
+        if band_id:
+            html += f"<b><a href='https://mx3.ch/{band_id}' target='_blank' style='color: #0066cc; text-decoration: none;'>{band_name}</a></b><br>"
+        else:
+            html += f"<b>{band_name}</b><br>"
+        
         if venue:
             html += f"📍 {venue}<br>"
         if date_str:
             html += f"📅 {date_str}<br>"
         html += f"</div>"
     
-    if len(gigs) > 5:
-        html += f"<i>... and {len(gigs) - 5} more</i>"
-    
+    html += "</div>"
     return html
 
 
@@ -123,8 +136,9 @@ def create_interactive_map(municipality_gigs: dict, geo_data: dict) -> folium.Ma
         fill_color = f"#{red:02x}4444"
         fill_opacity = 0.8
         
-        # Create tooltip
+        # Create tooltip and popup
         tooltip_html = create_gig_tooltip(gigs)
+        popup_html = create_gig_popup(gigs, municipality_name)
         
         # Add municipality to map
         folium.GeoJson(
@@ -135,11 +149,8 @@ def create_interactive_map(municipality_gigs: dict, geo_data: dict) -> folium.Ma
                 "weight": 2,
                 "fillOpacity": fill_opacity,
             },
-            tooltip=folium.Tooltip(tooltip_html, max_width=300),
-            popup=folium.Popup(
-                f"<h4>{municipality_name}</h4>{tooltip_html}",
-                max_width=400
-            )
+            tooltip=folium.Tooltip(tooltip_html, max_width=250),
+            popup=folium.Popup(popup_html, max_width=450)
         ).add_to(m)
     
     return m
@@ -165,28 +176,28 @@ def create_gigs_table(gigs_data: list) -> pd.DataFrame:
             else:
                 date_str = parsed_date.strftime("%d.%m.%Y %H:%M")
         
-        # Create clickable link to mx3 profile
+        # Create band info with thumbnail and clickable link
         band_name = gig.get("band_name", "Unknown Band")
-        mx3_url = gig.get("mx3_url")
-        if mx3_url:
-            band_link = f'<a href="{mx3_url}" target="_blank">{band_name}</a>'
-        else:
-            band_link = band_name
-        
-        # Create thumbnail HTML
+        band_id = gig.get("band", {}).get("id") if isinstance(gig.get("band"), dict) else gig.get("band_id")
         thumbnail_url = gig.get("band_image_thumb", "")
-        thumbnail_html = ""
+        
+        # Create combined band cell with thumbnail + name + link
+        band_html = ""
         if thumbnail_url:
-            thumbnail_html = f'<img src="{thumbnail_url}" style="width:50px;height:50px;object-fit:cover;" alt="Band thumbnail">'
+            band_html += f'<img src="{thumbnail_url}" style="width:30px;height:30px;object-fit:cover;margin-right:8px;vertical-align:middle;" alt="Band thumbnail">'
+        
+        if band_id:
+            band_html += f'<a href="https://mx3.ch/{band_id}" target="_blank" style="color: #0066cc; text-decoration: none;">{band_name}</a>'
+        else:
+            band_html += band_name
         
         table_data.append({
             "Date": date_str,
-            "Band": band_link,
+            "Band": band_html,
             "Venue": gig.get("venue", ""),
             "Location": gig.get("location", ""),
             "Canton": gig.get("canton", ""),
-            "Categories": ", ".join(gig.get("band_categories", [])),
-            "Thumbnail": thumbnail_html
+            "Categories": ", ".join(gig.get("band_categories", []))
         })
     
     df = pd.DataFrame(table_data)
