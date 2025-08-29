@@ -14,8 +14,9 @@ RUN apt-get update && apt-get install -y \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application code
-COPY . .
+# Copy only essential runtime files (exclude preprocessing scripts)
+COPY app.py config.py ./
+COPY data/*.json ./data/
 
 # Create non-root user for security
 RUN useradd --create-home --shell /bin/bash app \

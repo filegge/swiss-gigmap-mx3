@@ -58,3 +58,25 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Preprocessing and development scripts (not needed in production)
+data_fetcher.py
+geo_processor.py
+preprocess_data.py
+refresh_data.sh
+
+# Raw data files (only processed JSONs needed in production)
+data/gemeinden.geojson
+data/swiss_municipalities_raw.*
+
+# Documentation and examples
+README.md
+*.md
+env.example
+
+# Authentication files (should be set as env vars in Cloud Run)
+consumer_key.txt
+consumer_secret.txt
+
+# Deployment scripts
+deploy.sh

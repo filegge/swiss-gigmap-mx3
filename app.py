@@ -298,7 +298,6 @@ def main():
     
     # Sidebar with additional info
     with st.sidebar:
-        st.header("ℹ️ Information")
         st.image("https://www.srgssr.ch/fileadmin/dam/images/downloads/SRG_SSR_RGB.png")
         st.markdown("This app visualizes live music gigs across Switzerland using official data from the mx3 platform provided by SRG-SSR.")
         
@@ -308,24 +307,6 @@ def main():
         - **Hover** over municipalities to see gig details
         - **Click** band names to visit their mx3 profiles
         """)
-        
-        if processed_gigs:
-            latest_update = max([gig.get("parsed_date") for gig in processed_gigs if gig.get("parsed_date")])
-            if latest_update:
-                if isinstance(latest_update, str):
-                    try:
-                        latest_dt = datetime.fromisoformat(latest_update.replace('Z', '+00:00'))
-                        st.markdown(f"**Latest gig:** {latest_dt.strftime('%d.%m.%Y')}")
-                    except:
-                        st.markdown(f"**Latest gig:** {latest_update}")
-                else:
-                    st.markdown(f"**Latest gig:** {latest_update.strftime('%d.%m.%Y')}")
-        
-        # Data refresh button
-        if st.button("🔄 Refresh Data"):
-            st.cache_data.clear()
-            st.rerun()
-
 
 if __name__ == "__main__":
     main()
