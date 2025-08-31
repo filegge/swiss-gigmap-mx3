@@ -4,11 +4,9 @@ Interactive visualization of live music gigs across Swiss municipalities using o
 
 ## Features
 
-- 🗺️ **Interactive Map**: Hover over municipalities to see upcoming gigs
-- 🌡️ **Heatmap**: Color-coded municipalities by gig density
-- 📋 **Searchable Table**: Look up artists or locations
-- 🔗 **Direct Links**: Click artist names to visit their profiles
-- 🖼️ **Thumbnails**: Display artist images from the music platform
+- **Interactive Map**: Hover over municipalities to see upcoming gigs
+- **Searchable Table**: Look up artists or locations
+- **Direct Links**: Click artist names to visit their profiles
 
 ## Local Development
 
@@ -62,12 +60,6 @@ The app will be available at `http://localhost:8501`
    ```bash
    ./deploy.sh
    ```
-
-#### Data Freshness System
-- **Build-time**: Fresh data fetched during Docker build
-- **Runtime**: Auto-refresh when data >24 hours old  
-- **User Experience**: Always instant loading with ≤48 hour old data
-- **Zero overhead**: No additional GCP services required
 
 ### Testing
 ```bash
