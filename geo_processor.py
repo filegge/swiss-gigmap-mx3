@@ -60,7 +60,6 @@ def get_municipality_names() -> List[str]:
 def simplify_geojson(geo_data: Dict, tolerance: float = 0.01) -> Dict:
     """
     Simplify GeoJSON geometries for better performance
-    Note: This is a basic simplification. For production, consider using libraries like shapely
     """
     logger.info(f"Simplifying GeoJSON with tolerance {tolerance}")
     
