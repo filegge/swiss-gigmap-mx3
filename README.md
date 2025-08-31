@@ -2,6 +2,9 @@
 
 Interactive visualization of live music gigs across Swiss municipalities using official music platform data.
 
+## Link
+https://swiss-bandmap-bn2wyeemua-ew.a.run.app/
+
 ## Features
 
 - 🗺️ **Interactive Map**: Hover over municipalities to see upcoming gigs
