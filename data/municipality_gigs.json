@@ -1,1836 +1,21 @@
 {
-  "Bischofszell": [
-    {
-      "date": "2025-08-29T21:45:00.000Z",
-      "band_name": "MIDNIGHT SCREAMERS",
-      "band_id": 102575,
-      "venue": "Stadtfest Bischofszell",
-      "location": "Bischofszell",
-      "location_normalized": "bischofszell",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOTIyLCJwdXIiOiJibG9iX2lkIn19--2f559b42096965281f006673eac6ce5dcf245ef0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/quadr-mit-rahmen-mx3.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/102575",
-      "event_name": null,
-      "venue_url": "https://stadtfest-bischofszell.ch/",
-      "parsed_date": "2025-08-29T21:45:00+00:00"
-    },
-    {
-      "date": "2025-08-30T13:30:00.000Z",
-      "band_name": "HONEYSPOON",
-      "band_id": 123630,
-      "venue": "Regiob\u00fchne (Schwanenplatz, Stadelgasse)",
-      "location": "Bischofszell (Altstadt)",
-      "location_normalized": "bischofszellaltstadt",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMzNTA2LCJwdXIiOiJibG9iX2lkIn19--c786ab3ff3b7aefaf810220bbf88ae91d1e19d60/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/design-ohne-titel.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/123630",
-      "event_name": "Stadtfest-Bischofszell",
-      "venue_url": "https://stadtfest-bischofszell.ch/",
-      "parsed_date": "2025-08-30T13:30:00+00:00"
-    },
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "Pilots of the Daydreams",
-      "band_id": 108534,
-      "venue": "Stadtfest Bischofszell",
-      "location": "Bischofszell",
-      "location_normalized": "bischofszell",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkwODYwLCJwdXIiOiJibG9iX2lkIn19--1c2c0dfb2f414693340fb8dc6f511364050e5f7d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/butterfly-in-your-heart.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/108534",
-      "event_name": null,
-      "venue_url": "https://stadtfest-bischofszell.ch/",
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    },
-    {
-      "date": "2025-08-30T19:00:00.000Z",
-      "band_name": "Dom Sweden",
-      "band_id": 109078,
-      "venue": "Stadtfest Bischofszell 2025",
-      "location": "Mobi-B\u00fchne (Gerberplatz), Bischofszell",
-      "location_normalized": "mobibhnegerberplatzbischofszell",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0ODY1LCJwdXIiOiJibG9iX2lkIn19--1c125c1c339065656ab5d8dd9535e642135a28ca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/web_2024_12_08_domsweden8674.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/109078",
-      "event_name": null,
-      "venue_url": "https://stadtfest-bischofszell.ch/",
-      "parsed_date": "2025-08-30T19:00:00+00:00"
-    },
-    {
-      "date": "2025-10-04T18:00:00.000Z",
-      "band_name": "Taxco",
-      "band_id": 130287,
-      "venue": "Aula Sandb\u00e4nkli",
-      "location": "Bischofszell ",
-      "location_normalized": "bischofszell",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzMjM5MywicHVyIjoiYmxvYl9pZCJ9fQ==--c8b866fc8cacaf79dcbc8bf5c379b9aa67964d36/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/IMG_1318.jpeg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/130287",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-10-04T18:00:00+00:00"
-    }
-  ],
-  "Oberkirch": [
-    {
-      "date": "2025-08-30T11:00:00.000Z",
-      "band_name": "Days of Ruin",
-      "band_id": 120173,
-      "venue": "Bauernhof Wyssr\u00fcti",
-      "location": "Oberkirch",
-      "location_normalized": "oberkirch",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NzU5LCJwdXIiOiJibG9iX2lkIn19--3f3c4f038019fffe119b04a75d8757ac84ef41df/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/dor-social-media-2023.png",
-      "band_categories": [
-        "Metal Punk HxC"
-      ],
-      "mx3_url": "https://mx3.ch/bands/120173",
-      "event_name": "Wyssr\u00fcti Festival",
-      "venue_url": "https://wyssrueti-festival.ch/",
-      "parsed_date": "2025-08-30T11:00:00+00:00"
-    }
-  ],
-  "Stein": [
-    {
-      "date": "2025-08-30T13:00:00.000Z",
-      "band_name": "The Crumpets",
-      "band_id": 42708,
-      "venue": "Trimstein Openair ",
-      "location": "Trimstein",
-      "location_normalized": "trimstein",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0NTY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--9e5f3de4436d772378a20899e200493f29b8d4b3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/The%20Crumpets%201199%20SW.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/42708",
-      "event_name": "\"F\u00dcEHL DA B\u00dcEHL\"",
-      "venue_url": "https://www.instagram.com/p/CwfVxFHN5Ny/?img_index=1",
-      "parsed_date": "2025-08-30T13:00:00+00:00"
-    },
-    {
-      "date": "2025-11-22T16:00:00.000Z",
-      "band_name": "Joe Legacy",
-      "band_id": 110080,
-      "venue": "Hotel Weissenstein Solothurn",
-      "location": "Hotel Weissenstein ",
-      "location_normalized": "hotelweissenstein",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA2MzUwLCJwdXIiOiJibG9iX2lkIn19--8325f0ec67af66828c39bd3578be19ade0728668/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_0241.jpg",
-      "band_categories": [
-        "World latin traditionnel"
-      ],
-      "mx3_url": "https://mx3.ch/bands/110080",
-      "event_name": "Privat Event  ",
-      "venue_url": null,
-      "parsed_date": "2025-11-22T16:00:00+00:00"
-    }
-  ],
-  "Spiez": [
-    {
-      "date": "2025-08-30T13:45:00.000Z",
-      "band_name": "LOVEBUGS",
-      "band_id": 7744,
-      "venue": "Seaside Festival",
-      "location": "Spiez",
-      "location_normalized": "spiez",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM4MjcxLCJwdXIiOiJibG9iX2lkIn19--765e2f1c45b5f9a8e0d4c22eaf83896a9585ea65/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/2400_lovebugs_promo_2024_009_-4x5-_1.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/7744",
-      "event_name": null,
-      "venue_url": "https://seasidefestival.ch/",
-      "parsed_date": "2025-08-30T13:45:00+00:00"
-    },
-    {
-      "date": "2025-08-30T16:30:00.000Z",
-      "band_name": "ZOEY",
-      "band_id": 104452,
-      "venue": "Seaside Festival",
-      "location": "Spiez",
-      "location_normalized": "spiez",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MTYyLCJwdXIiOiJibG9iX2lkIn19--c7b0a82766e13667731b201405cdf7ba91a5acb3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Auswahl%201.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/104452",
-      "event_name": "https://seasidefestival.ch/programm/session-buehne/zoey/",
-      "venue_url": null,
-      "parsed_date": "2025-08-30T16:30:00+00:00"
-    }
-  ],
-  "Liestal": [
-    {
-      "date": "2025-08-30T14:00:00.000Z",
-      "band_name": "Chris Regez & Band",
-      "band_id": 115906,
-      "venue": "Brunnmatt Liestal",
-      "location": "Liestal",
-      "location_normalized": "liestal",
-      "canton": "BL",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0MzQ3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c00edc68ff9886fe7020ec164ea7f5abaebb7ef3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEVHIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--8a8f68cc55709bf1f2aa72ab5f9afba90a75a513/Chris%20Regez%20&%20Band%20-%20IMG_8810.JPEG",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/115906",
-      "event_name": "Chris Regez & Band",
-      "venue_url": null,
-      "parsed_date": "2025-08-30T14:00:00+00:00"
-    },
-    {
-      "date": "2025-10-24T18:00:00.000Z",
-      "band_name": "Halunke",
-      "band_id": 36567,
-      "venue": "Elefantehuus",
-      "location": "Liestal",
-      "location_normalized": "liestal",
-      "canton": "BL",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MTIwLCJwdXIiOiJibG9iX2lkIn19--cc619cde33e10e99ca691742a2efbdcda6e96997/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/01_halunke_2025_quadrat_3000x3000.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/36567",
-      "event_name": "HALUNKE Jubil\u00e4umstour",
-      "venue_url": "https://www.elefantehuus.ch/veranstaltungen",
-      "parsed_date": "2025-10-24T18:00:00+00:00"
-    },
-    {
-      "date": "2026-05-30T19:00:00.000Z",
-      "band_name": "LAESSIG",
-      "band_id": 118753,
-      "venue": "Guggenheim Liestal",
-      "location": "Liestal",
-      "location_normalized": "liestal",
-      "canton": "BL",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMzMTczLCJwdXIiOiJibG9iX2lkIn19--841a9f6de10315cd380cfdfaa23007b3fc79fe5e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/laessig-83.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/118753",
-      "event_name": "LAESSIG",
-      "venue_url": "https://guggenheimliestal.ch/veranstaltungskalender-2/",
-      "parsed_date": "2026-05-30T19:00:00+00:00"
-    }
-  ],
-  "Solothurn": [
-    {
-      "date": "2025-08-30T14:00:00.000Z",
-      "band_name": "NASTENKA",
-      "band_id": 105973,
-      "venue": "Streetfood Festival",
-      "location": "Solothurn",
-      "location_normalized": "solothurn",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEwNzE1LCJwdXIiOiJibG9iX2lkIn19--3e5ae913695ccf43e20889b66e433cf911f275ff/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/2ad440d2-836a-4839-ac81-9858e00c3188.jpeg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/105973",
-      "event_name": null,
-      "venue_url": "https://www.streetfoodsolothurn.ch/",
-      "parsed_date": "2025-08-30T14:00:00+00:00"
-    },
-    {
-      "date": "2025-08-30T15:00:00.000Z",
-      "band_name": "Fredy Pi.",
-      "band_id": 5381,
-      "venue": "Streetfood Festival, Solothurn SO",
-      "location": "beim Kofmehl, Solothurn SO",
-      "location_normalized": "beimkofmehlsolothurnso",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5381",
-      "event_name": "Fredy Pi. - Solo - LIVE",
-      "venue_url": "https://www.streetfoodsolothurn.ch",
-      "parsed_date": "2025-08-30T15:00:00+00:00"
-    },
-    {
-      "date": "2025-08-31T10:30:00.000Z",
-      "band_name": "NASTENKA",
-      "band_id": 105973,
-      "venue": "Streetfood Festival",
-      "location": "Solothurn",
-      "location_normalized": "solothurn",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEwNzE1LCJwdXIiOiJibG9iX2lkIn19--3e5ae913695ccf43e20889b66e433cf911f275ff/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/2ad440d2-836a-4839-ac81-9858e00c3188.jpeg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/105973",
-      "event_name": null,
-      "venue_url": "https://www.streetfoodsolothurn.ch/",
-      "parsed_date": "2025-08-31T10:30:00+00:00"
-    },
-    {
-      "date": "2025-08-31T11:00:00.000Z",
-      "band_name": "Fredy Pi.",
-      "band_id": 5381,
-      "venue": "Streetfood Festival, Solothurn SO",
-      "location": "beim Kofmehl, Solothurn SO",
-      "location_normalized": "beimkofmehlsolothurnso",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5381",
-      "event_name": "Fredy Pi. & Joli - LIVE",
-      "venue_url": "https://www.streetfoodsolothurn.ch",
-      "parsed_date": "2025-08-31T11:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T20:30:00.000Z",
-      "band_name": "CHERRYBEATS",
-      "band_id": 6522,
-      "venue": "RothusHalle",
-      "location": "Solothurn",
-      "location_normalized": "solothurn",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNjM5LCJwdXIiOiJibG9iX2lkIn19--5bbee76866ad23cc5fef4c033caa4e8012e21b57/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/shirt_roach.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/6522",
-      "event_name": "Solothurner Musiktage",
-      "venue_url": "https://www.solothurnermusiktage.ch/",
-      "parsed_date": "2025-09-06T20:30:00+00:00"
-    },
-    {
-      "date": "2025-09-25T18:30:00.000Z",
-      "band_name": "Ramon Clau",
-      "band_id": 46738,
-      "venue": "Acoustic Nights Solothurn",
-      "location": "Solothurn",
-      "location_normalized": "solothurn",
-      "canton": "SO",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NzUxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--2889f77f1c76b736b0b0b5e19b7b0eab161559df/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/2022-08-08%2011.30.57.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/46738",
-      "event_name": null,
-      "venue_url": "https://acousticnights.ch/",
-      "parsed_date": "2025-09-25T18:30:00+00:00"
-    }
-  ],
   "Chavannes-pr\u00e8s-Renens": [
     {
-      "date": "2025-08-30T15:30:00.000Z",
-      "band_name": "4 A WHILE",
-      "band_id": 129410,
-      "venue": "Byggvir Fest, Chavannes",
-      "location": "Parc Pidoux, 1022 Chavannes-pr\u00e8s-Renens",
-      "location_normalized": "parcpidoux1022chavannesprsrenens",
+      "date": "2025-09-03T18:00:00.000Z",
+      "band_name": "LAEZ\u00c8DE",
+      "band_id": 131238,
+      "venue": "Bar satellite",
+      "location": "Chavannes-pr\u00e8s-renens",
+      "location_normalized": "chavannesprsrenens",
       "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYxNjMxLCJwdXIiOiJibG9iX2lkIn19--c1b1a4ee8babe07b11e1dade9debde2cf6c18489/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/logomx3.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/129410",
-      "event_name": "Concert au Byggvir Fest 2025",
-      "venue_url": "https://www.chavannes.ch/vivre-a-chavannes/manifestations/calendrier-des-manifestations/162-commune/17211-byggvir-fest-%E2%80%93-4e-%C3%A9dition.html",
-      "parsed_date": "2025-08-30T15:30:00+00:00"
-    }
-  ],
-  "Lancy": [
-    {
-      "date": "2025-08-30T15:30:00.000Z",
-      "band_name": "Monkey Dola",
-      "band_id": 123249,
-      "venue": "Chrono Festival",
-      "location": "Place du 1er Ao\u00fbt, Lancy",
-      "location_normalized": "placedu1eraotlancy",
-      "canton": "GE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MjgwLCJwdXIiOiJibG9iX2lkIn19--f2f0fbddf8b7e44782917fb00ead0a80ca33cd0f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/monkey%20dola-serie1-07.12.24-15.jpg",
-      "band_categories": [
-        "Hip Hop rap new beats"
-      ],
-      "mx3_url": "https://mx3.ch/bands/123249",
-      "event_name": "Chrono Festival",
-      "venue_url": "https://chronofestival.ch/",
-      "parsed_date": "2025-08-30T15:30:00+00:00"
-    },
-    {
-      "date": "2025-10-11T19:00:00.000Z",
-      "band_name": "Stane",
-      "band_id": 103169,
-      "venue": "Villa Tacchini",
-      "location": "11 chemin de l'Avenir 1213 Petit-Lancy",
-      "location_normalized": "11chemindelavenir1213petitlancy",
-      "canton": "GE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg3MjgyLCJwdXIiOiJibG9iX2lkIn19--13c45e924b810907b23de7eea89f953e02ba2e26/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/img_5255-copie.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/103169",
-      "event_name": "Rock'n'Truck Festival",
-      "venue_url": null,
-      "parsed_date": "2025-10-11T19:00:00+00:00"
-    },
-    {
-      "date": "2025-11-21T21:00:00.000Z",
-      "band_name": "CAROLYN",
-      "band_id": 113875,
-      "venue": "Villa Tacchini",
-      "location": "Petit-Lancy",
-      "location_normalized": "petitlancy",
-      "canton": "GE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUwOTY0LCJwdXIiOiJibG9iX2lkIn19--072829db5c8b0c38ced0d8ffccea166b34c0d635/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_9617.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/113875",
-      "event_name": "Festival G\u00e9n\u00e9rations Music",
-      "venue_url": "https://villa-tacchini.ch",
-      "parsed_date": "2025-11-21T21:00:00+00:00"
-    }
-  ],
-  "B\u00fclach": [
-    {
-      "date": "2025-08-30T16:00:00.000Z",
-      "band_name": "Fiona Luck",
-      "band_id": 128788,
-      "venue": "B\u00fc\u00fclif\u00e4scht: Kulturb\u00fchne Altstadt B\u00fclach - 8180 B\u00fclach",
-      "location": "B\u00fclach",
-      "location_normalized": "blach",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2MDY5LCJwdXIiOiJibG9iX2lkIn19--648607abdcb2734d5edcdb1ad3b3bd578c758046/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/avatar.jpg",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NTkzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--293da9fe7b15563ec7f687b24c0993dbba59c34d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/IMG_5516.jpeg",
       "band_categories": [
         "Pop"
       ],
-      "mx3_url": "https://mx3.ch/bands/128788",
-      "event_name": null,
-      "venue_url": "https://b\u00fc\u00fclif\u00e4scht.ch/",
-      "parsed_date": "2025-08-30T16:00:00+00:00"
-    }
-  ],
-  "Port": [
-    {
-      "date": "2025-08-30T16:00:00.000Z",
-      "band_name": "LAWA",
-      "band_id": 105207,
-      "venue": "Port de Serri\u00e8res",
-      "location": "Barraquito, Port de Serri\u00e8res",
-      "location_normalized": "barraquitoportdeserrires",
-      "canton": "NE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4NzU5LCJwdXIiOiJibG9iX2lkIn19--0b7ce6cfd443d13677f70fa4b9d87ed0b55cda35/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/379923290_10231047573670172_5594993781718285740_n.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/105207",
-      "event_name": "Barraquito, Port de Serri\u00e8res",
-      "venue_url": "https://www.facebook.com/Lebarraquito/",
-      "parsed_date": "2025-08-30T16:00:00+00:00"
-    },
-    {
-      "date": "2025-09-24T13:00:00.000Z",
-      "band_name": "Lanik",
-      "band_id": 104148,
-      "venue": "\u00c4tzm\u00e4nnig Kultur",
-      "location": "\u00c4tzm\u00e4nnig Parkplatz Sportbahnen",
-      "location_normalized": "tzmnnigparkplatzsportbahnen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MTk4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--afd90bfee8076fbe4225b46b9bd61cd659787fc6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/newsletter%2012.3.jpg",
-      "band_categories": [
-        "Chanson"
-      ],
-      "mx3_url": "https://mx3.ch/bands/104148",
-      "event_name": "Duo Doublette - Clownkonzert",
-      "venue_url": "https://www.atzmaennig-kultur.ch/",
-      "parsed_date": "2025-09-24T13:00:00+00:00"
-    }
-  ],
-  "Schwellbrunn": [
-    {
-      "date": "2025-08-30T16:00:00.000Z",
-      "band_name": "Last Avenue",
-      "band_id": 8978,
-      "venue": "Rock am Teich - Wiesenrain 989",
-      "location": "9103 Schwellbrunn",
-      "location_normalized": "9103schwellbrunn",
-      "canton": "AR",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMyMTM3LCJwdXIiOiJibG9iX2lkIn19--37beaf7506a00fe858197aa1eed3ebc3ed0c72c5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/last-avenue5.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/8978",
-      "event_name": "Last Avenue",
-      "venue_url": "https://www.lastavenue.ch/",
-      "parsed_date": "2025-08-30T16:00:00+00:00"
-    }
-  ],
-  "Blonay": [
-    {
-      "date": "2025-08-30T16:00:00.000Z",
-      "band_name": "ROADFEVER",
-      "band_id": 29617,
-      "venue": "L\u00e9man R\u00e9tro",
-      "location": "Site de Praz Dagoud, 1806 Blonay-St L\u00e9gier",
-      "location_normalized": "sitedeprazdagoud1806blonaystlgier",
-      "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3Nzg4NywicHVyIjoiYmxvYl9pZCJ9fQ==--b1e94a4146ea5a828cc47c3c2b54f67208b8c640/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/uhqEBgR6.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/29617",
-      "event_name": "Old Cars",
-      "venue_url": null,
-      "parsed_date": "2025-08-30T16:00:00+00:00"
-    }
-  ],
-  "Z\u00fcrich": [
-    {
-      "date": "2025-08-30T16:00:00.000Z",
-      "band_name": "r.olla tunes",
-      "band_id": 112682,
-      "venue": "WG Ch\u00e4si Seebach",
-      "location": "K\u00e4shaldenstrasse 30, 8052 Z\u00fcrich",
-      "location_normalized": "kshaldenstrasse308052zrich",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MjgzLCJwdXIiOiJibG9iX2lkIn19--a18519ddead35ae3504fe531243c6f71721726cf/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/r-olla_tunes_logo.png",
-      "band_categories": [
-        "Electro trip hop - ambient"
-      ],
-      "mx3_url": "https://mx3.ch/bands/112682",
-      "event_name": "Rolla Tunes live @ WG Ch\u00e4si Seebach",
-      "venue_url": null,
-      "parsed_date": "2025-08-30T16:00:00+00:00"
-    },
-    {
-      "date": "2025-08-30T17:30:00.000Z",
-      "band_name": "Jonatan Echo",
-      "band_id": 51240,
-      "venue": "Kulturcaf\u00e9 WHISper",
-      "location": "Z\u00fcrich",
-      "location_normalized": "zrich",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MjI1NywicHVyIjoiYmxvYl9pZCJ9fQ==--fcd956092570e954a67ed5aa87250cf56f3dcad3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/IMG_4507%20Final.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/51240",
-      "event_name": null,
-      "venue_url": "https://www.whis-per.ch",
-      "parsed_date": "2025-08-30T17:30:00+00:00"
-    },
-    {
-      "date": "2025-09-02T18:30:00.000Z",
-      "band_name": "H\u00e9lo\u00efse",
-      "band_id": 120189,
-      "venue": "Misterioso Jazzclub",
-      "location": "Z\u00fcrich",
-      "location_normalized": "zrich",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkxNjk5LCJwdXIiOiJibG9iX2lkIn19--b2ed318857a386a5e50df1edc24490ef1206a572/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/heloise-6.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/120189",
-      "event_name": "H\u00e9lo\u00efse (CH) + KOU (F)",
-      "venue_url": "https://theinstitute.ch/programm/",
-      "parsed_date": "2025-09-02T18:30:00+00:00"
-    },
-    {
-      "date": "2025-09-06T17:00:00.000Z",
-      "band_name": "2SILENT",
-      "band_id": 121414,
-      "venue": "GZ Heuried",
-      "location": "Z\u00fcrich",
-      "location_normalized": "zrich",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NTAwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d0c076f9519528a23aa4cb7f467748db6251af2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--416e600a58b54a72dcc6b3e2cdd63433d211f7a4/profilbild.JPG",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/121414",
-      "event_name": "2SILENT - WHERE ROSES WEEP - ALBUM RELEASE PARTY",
-      "venue_url": "https://www.2silent.com/event-details/album-release-party-where-roses-weep",
-      "parsed_date": "2025-09-06T17:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T18:00:00.000Z",
-      "band_name": "KayOz & The Mojo",
-      "band_id": 126591,
-      "venue": "Tram-Museum Z\u00fcrich",
-      "location": "Forchstrasse 260, 8008 Z\u00fcrich",
-      "location_normalized": "forchstrasse2608008zrich",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIwMTU4LCJwdXIiOiJibG9iX2lkIn19--f1c346814792d78b35e08dbbb56b7402cdf66103/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/waitin_1-kopie.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/126591",
-      "event_name": null,
-      "venue_url": "https://langenacht-zuerich.ch/museen?limit=1000&skip=0&culture=de-ch&museumsOverviewNodeId=7384&searchTerm=Trammuseum",
-      "parsed_date": "2025-09-06T18:00:00+00:00"
-    }
-  ],
-  "Winterthur": [
-    {
-      "date": "2025-08-30T17:00:00.000Z",
-      "band_name": "GORZ",
-      "band_id": 124492,
-      "venue": "Gisi Hausfest",
-      "location": "Winterthur",
-      "location_normalized": "winterthur",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA0MTMzLCJwdXIiOiJibG9iX2lkIn19--586773ef4ff63685d445c1b681c83047dcb86d83/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/gorz-leipzig-2.jpeg",
-      "band_categories": [
-        "Metal Punk HxC"
-      ],
-      "mx3_url": "https://mx3.ch/bands/124492",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-08-30T17:00:00+00:00"
-    },
-    {
-      "date": "2025-08-31T11:00:00.000Z",
-      "band_name": "Shmu",
-      "band_id": 112202,
-      "venue": "(P)art of Urban",
-      "location": "Skatepark Oberwinterthur",
-      "location_normalized": "skateparkoberwinterthur",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2ODQ1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--423cfcf1ead99b368a7fe49360510262fe1c5d66/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/12%20TG1_1418_kl.jpg",
-      "band_categories": [
-        "Hip Hop rap new beats"
-      ],
-      "mx3_url": "https://mx3.ch/bands/112202",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-08-31T11:00:00+00:00"
-    },
-    {
-      "date": "2025-09-05T16:00:00.000Z",
-      "band_name": "Catbird",
-      "band_id": 39719,
-      "venue": "LOKal",
-      "location": "Winterthur",
-      "location_normalized": "winterthur",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyODMyLCJwdXIiOiJibG9iX2lkIn19--47e6a469c40746f0580c3d4d21530dba4bee84c4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/bildschirmfoto-2023-11-13-um-23-56-11.png",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/39719",
-      "event_name": "Winterthur Unplugged",
-      "venue_url": "https://lok.al/winterthur/",
-      "parsed_date": "2025-09-05T16:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T15:00:00.000Z",
-      "band_name": "Cecilia Ugarte",
-      "band_id": 45715,
-      "venue": "Quartierfest Neuwiesen",
-      "location": "8400 Winterthur ",
-      "location_normalized": "8400winterthur",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2NjcxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9fe8c571923b1c0e1487eeadfe59e00eeeb019ad/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/73923.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/45715",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-09-06T15:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T18:00:00.000Z",
-      "band_name": "Plankton",
-      "band_id": 9261,
-      "venue": "Dialogplatzfest",
-      "location": "Winterthur",
-      "location_normalized": "winterthur",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMyNjQzLCJwdXIiOiJibG9iX2lkIn19--1523f75e77b56658d60e8ffebda533d4a1e396d3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/plankton-2024-b.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/9261",
-      "event_name": null,
-      "venue_url": "https://www.stadtlokt.ch/",
-      "parsed_date": "2025-09-06T18:00:00+00:00"
-    }
-  ],
-  "Villmergen": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "FAMARA",
-      "band_id": 4846,
-      "venue": "\u00dcberseh-Bar",
-      "location": "Villmergen",
-      "location_normalized": "villmergen",
-      "canton": "AG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMDkyLCJwdXIiOiJibG9iX2lkIn19--0facb41cd46f650decbc1d0ce6922ad6c4876fc1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/famara_profilbild_fb_tembo-power.png",
-      "band_categories": [
-        "Reggae ragga ska dub"
-      ],
-      "mx3_url": "https://mx3.ch/bands/4846",
-      "event_name": null,
-      "venue_url": "https://spectrumevent.ch/event/event-projekt-uebersehbar/",
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    }
-  ],
-  "Langenthal": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "Mat2",
-      "band_id": 129035,
-      "venue": "Stadttheater Theater 49",
-      "location": "Langenthal",
-      "location_normalized": "langenthal",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYyMzc3LCJwdXIiOiJibG9iX2lkIn19--e9ef7df19b6e253fbb1e3635b1108a72d008e0d6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/img_0716.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/129035",
-      "event_name": "Plattentaufe Virtues",
-      "venue_url": null,
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    }
-  ],
-  "Sissach": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "Ministry of Bad Taste",
-      "band_id": 50893,
-      "venue": "KiK Kultur Keller",
-      "location": "Sissach",
-      "location_normalized": "sissach",
-      "canton": "BL",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA0ODg0LCJwdXIiOiJibG9iX2lkIn19--81d18e4718069cc2a5b7a6bf6ebe784ade80f368/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/artwork_mit_logo-002.png",
-      "band_categories": [
-        "Metal Punk HxC"
-      ],
-      "mx3_url": "https://mx3.ch/bands/50893",
-      "event_name": "Twisted Punk & Rock Spectacle",
-      "venue_url": "https://kik-sissach.ch/",
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    },
-    {
-      "date": "2025-11-15T19:00:00.000Z",
-      "band_name": "Keepers and Clown",
-      "band_id": 104174,
-      "venue": "KiK Kultur im Keller",
-      "location": "Sissach",
-      "location_normalized": "sissach",
-      "canton": "BL",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1OTIxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--d549c0e13741fdbad52fe6fc9d00606678991b4a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/KnC_Apr_25.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/104174",
-      "event_name": null,
-      "venue_url": "https://kik-sissach.jimdoweb.com/",
-      "parsed_date": "2025-11-15T19:00:00+00:00"
-    }
-  ],
-  "Gland": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "NOW ACCESS",
-      "band_id": 128406,
-      "venue": "Dive B\u00e4r",
-      "location": "Gland",
-      "location_normalized": "gland",
-      "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAxNTU1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b8529501e7ad9aa5e945f1e2f434497ff69bad79/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Logo%20Now%20Access.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/128406",
-      "event_name": "NOW ACCESS",
-      "venue_url": "https://divebar.ch/",
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    }
-  ],
-  "Interlaken": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "Oliver Sullivan",
-      "band_id": 123284,
-      "venue": "Panoramarestaurant Harder Kulm",
-      "location": "Harder Kulm, Interlaken",
-      "location_normalized": "harderkulminterlaken",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk0NzI5LCJwdXIiOiJibG9iX2lkIn19--23602f8d076b738ed24bb9a78953c1a3fadd43c9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/06_oliver-sullivan.jpg",
-      "band_categories": [
-        "Techno dj dance"
-      ],
-      "mx3_url": "https://mx3.ch/bands/123284",
-      "event_name": "Kiss The Mountain",
-      "venue_url": "https://www.eventim-light.com/ch/a/673c9dedaca7c41c20d662e3/e/6829f374d4886d2e22d0c365?lang=de",
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    }
-  ],
-  "Vernier": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "Pug Impact",
-      "band_id": 126065,
-      "venue": "Auvernier (d\u00e9tails \u00e0 suivre)",
-      "location": "Auvernier",
-      "location_normalized": "auvernier",
-      "canton": "NE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE2MTUwLCJwdXIiOiJibG9iX2lkIn19--6f2aebf97dfcd0b0d1e2293f749a2b0c8bb9ba11/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/_dsc6978-hazy.jpg",
-      "band_categories": [
-        "Electro trip hop - ambient"
-      ],
-      "mx3_url": "https://mx3.ch/bands/126065",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-28T18:00:00.000Z",
-      "band_name": "OROBOROS",
-      "band_id": 124120,
-      "venue": "Porteous",
-      "location": "chemin de la verseuse 17bis, 1219 Vernier",
-      "location_normalized": "chemindelaverseuse17bis1219vernier",
-      "canton": "GE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NzY5LCJwdXIiOiJibG9iX2lkIn19--6bec43d7deb59f4624f93ff0c519b0a6f3da1624/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/image-05-11-24-a-22-18.jpeg",
-      "band_categories": [
-        "Metal Punk HxC"
-      ],
-      "mx3_url": "https://mx3.ch/bands/124120",
-      "event_name": "Metal @Porteous",
-      "venue_url": "https://linktr.ee/porteous____?fbclid=PAZXh0bgNhZW0CMTEAAabXk9s5UcPEbObmF_1irU6Rp5RF0OvtAtZUOnFbWvJDxSbEGBieFoJOhwM_aem_sU3upUDfWb4NJzBRN2m5Mw",
-      "parsed_date": "2025-09-28T18:00:00+00:00"
-    }
-  ],
-  "Wil": [
-    {
-      "date": "2025-08-30T18:00:00.000Z",
-      "band_name": "thE DorKs",
-      "band_id": 28345,
-      "venue": "Open Kl\u00f6sti",
-      "location": "Wil",
-      "location_normalized": "wil",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA1NTg2LCJwdXIiOiJibG9iX2lkIn19--1beef7ef1c4290b7ff1049ae292e2e4ed3acb0be/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dorks_blue-1.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/28345",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-08-30T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-05T19:00:00.000Z",
-      "band_name": "Taxco",
-      "band_id": 130287,
-      "venue": "Heaven Music Club",
-      "location": "Balterswil",
-      "location_normalized": "balterswil",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzMjM5MywicHVyIjoiYmxvYl9pZCJ9fQ==--c8b866fc8cacaf79dcbc8bf5c379b9aa67964d36/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/IMG_1318.jpeg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/130287",
-      "event_name": null,
-      "venue_url": "https://www.the-heaven.ch/202-termine-veranstaltungen-events-konzerte.php",
-      "parsed_date": "2025-09-05T19:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T17:00:00.000Z",
-      "band_name": "After the Story",
-      "band_id": 110556,
-      "venue": "Rock ir Sagi Leimiswil",
-      "location": "Leimiswil",
-      "location_normalized": "leimiswil",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM4MzkxLCJwdXIiOiJibG9iX2lkIn19--bc3a63ba0c3d2bab21ceea9eb123c30e0d0cbac7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/a7_02971.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/110556",
-      "event_name": "AtS am Rock ir Sagi",
-      "venue_url": "https://buehlerholz.ch/content/179/80/rock-ir-sagi",
-      "parsed_date": "2025-09-06T17:00:00+00:00"
-    },
-    {
-      "date": "2025-09-27T18:00:00.000Z",
-      "band_name": "On The Rocks!",
-      "band_id": 108342,
-      "venue": "Heaven Music Club",
-      "location": "Balterswil",
-      "location_normalized": "balterswil",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgzODgzLCJwdXIiOiJibG9iX2lkIn19--abd3088b66d1d8f764f0e2aab07657bb8db6cc14/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/003a4418-1-1024x683.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/108342",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-09-27T18:00:00+00:00"
-    },
-    {
-      "date": "2025-10-04T18:30:00.000Z",
-      "band_name": "Andy McSean",
-      "band_id": 45465,
-      "venue": "Hotel Golf Panorama",
-      "location": "Lipperswil",
-      "location_normalized": "lipperswil",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NDI1LCJwdXIiOiJibG9iX2lkIn19--2a95baee141f0470b65e6175e9adf6cba0927ced/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ams-s2.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/45465",
-      "event_name": null,
-      "venue_url": "https://www.golfpanorama.ch/",
-      "parsed_date": "2025-10-04T18:30:00+00:00"
-    },
-    {
-      "date": "2025-11-01T19:30:00.000Z",
-      "band_name": "Andy McSean",
-      "band_id": 45465,
-      "venue": "Hotel Golf Panorama",
-      "location": "Lipperswil",
-      "location_normalized": "lipperswil",
-      "canton": "TG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NDI1LCJwdXIiOiJibG9iX2lkIn19--2a95baee141f0470b65e6175e9adf6cba0927ced/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ams-s2.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/45465",
-      "event_name": null,
-      "venue_url": "https://www.golfpanorama.ch/",
-      "parsed_date": "2025-11-01T19:30:00+00:00"
-    }
-  ],
-  "Vacallo": [
-    {
-      "date": "2025-08-30T18:30:00.000Z",
-      "band_name": "Kashmere",
-      "band_id": 108084,
-      "venue": "Prato Ex Asilo Riva",
-      "location": "Vacallo",
-      "location_normalized": "vacallo",
-      "canton": "TI",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3ODU1LCJwdXIiOiJibG9iX2lkIn19--efe994b1fe263d3adb8163f97795aa24a09ae2a0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/psx_20230324_211814.jpg",
-      "band_categories": [
-        "Funk R&B Soul"
-      ],
-      "mx3_url": "https://mx3.ch/bands/108084",
-      "event_name": "Feste Campestri Vacallo",
-      "venue_url": "https://www.vacallo.ch/Agenda-eventi-b98c0b00",
-      "parsed_date": "2025-08-30T18:30:00+00:00"
-    }
-  ],
-  "Ponte Tresa": [
-    {
-      "date": "2025-08-30T18:30:00.000Z",
-      "band_name": "Sunset '99",
-      "band_id": 113841,
-      "venue": "palco",
-      "location": "Ponte Tresa",
-      "location_normalized": "pontetresa",
-      "canton": "TI",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2NTg1LCJwdXIiOiJibG9iX2lkIn19--2ff1e2e55d522e9cb89dc0d25aa5630db363e601/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/foto1.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/113841",
-      "event_name": "Rock al Lagh",
-      "venue_url": "https://www.luganoregion.com/it/events/details/Rock-al-Lagh-Alternative-Waves-Fest/153351.html",
-      "parsed_date": "2025-08-30T18:30:00+00:00"
-    }
-  ],
-  "Davos": [
-    {
-      "date": "2025-08-30T19:00:00.000Z",
-      "band_name": "Collie Herb",
-      "band_id": 8060,
-      "venue": "Strandbad Davos",
-      "location": "Strandbad Davos",
-      "location_normalized": "strandbaddavos",
-      "canton": "GR",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3Mjk5LCJwdXIiOiJibG9iX2lkIn19--fd4897fcb45fa1c5413b613a086bcbf45a8015c2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/detox_profil_1.jpg",
-      "band_categories": [
-        "Reggae ragga ska dub"
-      ],
-      "mx3_url": "https://mx3.ch/bands/8060",
-      "event_name": "Collie Herb & Lex",
-      "venue_url": null,
-      "parsed_date": "2025-08-30T19:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T14:00:00.000Z",
-      "band_name": "NOFNOG",
-      "band_id": 29366,
-      "venue": "Box",
-      "location": "Davos",
-      "location_normalized": "davos",
-      "canton": "GR",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEwMzM3LCJwdXIiOiJibG9iX2lkIn19--4f6a9533876407e47312fc72c7763c4261e13663/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/nofnog-promo-1-by-lola-pichel.jpg",
-      "band_categories": [
-        "Metal Punk HxC"
-      ],
-      "mx3_url": "https://mx3.ch/bands/29366",
-      "event_name": "25 Jahre Box",
-      "venue_url": "https://www.boxdavos.ch/",
-      "parsed_date": "2025-09-06T14:00:00+00:00"
-    }
-  ],
-  "Basel": [
-    {
-      "date": "2025-08-30T20:00:00.000Z",
-      "band_name": "Mario Ferrini",
-      "band_id": 10476,
-      "venue": "Bar Rouge",
-      "location": "Messeplatz 10, Basler Messeturm \u00b7 4058 Basel",
-      "location_normalized": "messeplatz10baslermesseturm4058basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY3NTU3LCJwdXIiOiJibG9iX2lkIn19--cd00dd728885b4a9c4ab10b62fa9f659a2a580f3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/308538346_497329239066606_3300623418573547201_n.jpg",
-      "band_categories": [
-        "Techno dj dance"
-      ],
-      "mx3_url": "https://mx3.ch/bands/10476",
-      "event_name": "QUEENSNIGHT \u2013 DIE LEGENDE GEHT WEITER",
-      "venue_url": "https://www.barrouge.ch/",
-      "parsed_date": "2025-08-30T20:00:00+00:00"
-    },
-    {
-      "date": "2025-09-04T22:00:00.000Z",
-      "band_name": "Nomuel",
-      "band_id": 102746,
-      "venue": "Jugendkulturfestival",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMDkxMywicHVyIjoiYmxvYl9pZCJ9fQ==--efa7dae6a4c2c898cb59c70373c2cacb0e7cf1f9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Nomuel_Pressefotos&Cover_Export_@fioniversace-1790.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/102746",
-      "event_name": null,
-      "venue_url": "https://jkf.ch/",
-      "parsed_date": "2025-09-04T22:00:00+00:00"
-    },
-    {
-      "date": "2025-09-05T17:10:00.000Z",
-      "band_name": "ZOEY",
-      "band_id": 104452,
-      "venue": "JKF Basel",
-      "location": "Barf\u00fcsserplatz Basel",
-      "location_normalized": "barfsserplatzbasel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MTYyLCJwdXIiOiJibG9iX2lkIn19--c7b0a82766e13667731b201405cdf7ba91a5acb3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Auswahl%201.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/104452",
-      "event_name": "Jugendkulturfestival Basel",
-      "venue_url": "https://jkf.ch",
-      "parsed_date": "2025-09-05T17:10:00+00:00"
-    },
-    {
-      "date": "2025-09-06T20:45:00.000Z",
-      "band_name": "Robot Dog Funeral",
-      "band_id": 125366,
-      "venue": "Jugendkulturfestival",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyNzczLCJwdXIiOiJibG9iX2lkIn19--07aad80a7fcd54f86a0c454d1746b1651fdb1f3d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/sand_robot-dog-funeral-3486_crop.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/125366",
-      "event_name": null,
-      "venue_url": "https://programm.jkf.ch/acts/robot-dog-funeral",
-      "parsed_date": "2025-09-06T20:45:00+00:00"
-    },
-    {
-      "date": "2025-09-12T18:00:00.000Z",
-      "band_name": "Greg",
-      "band_id": 115040,
-      "venue": "Atlantis, Basel",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYzODc3LCJwdXIiOiJibG9iX2lkIn19--4bc9fd6bab899aa6b8615498f727925e35487451/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Konzert%20Flyer%20klein%202025-Sticker.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/115040",
-      "event_name": "GREG",
-      "venue_url": "https://www.greg-musik.ch/",
-      "parsed_date": "2025-09-12T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-12T18:00:00.000Z",
-      "band_name": "TAKE THE 55",
-      "band_id": 107587,
-      "venue": "WEHRM\u00c4NNERDENKMAL  BRUDERHOLZ",
-      "location": "BASEL",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcyMzUyLCJwdXIiOiJibG9iX2lkIn19--2735fa8b18c6ee63cf658f6c922310b19c77b261/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/TAKE%20THE%2055%20-%20%202024.jpeg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/107587",
-      "event_name": "100-Jahr-Jubil\u00e0um",
-      "venue_url": null,
-      "parsed_date": "2025-09-12T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-12T19:00:00.000Z",
-      "band_name": "Johnny Mancini",
-      "band_id": 116519,
-      "venue": "Kleiner Wassermann",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1OTk5MywicHVyIjoiYmxvYl9pZCJ9fQ==--50a0e2934e207b8ba51893525a55d9bfdff193f8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/johnnymancini_cover2.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/116519",
-      "event_name": null,
-      "venue_url": "https://kleinerwassermann.cafe",
-      "parsed_date": "2025-09-12T19:00:00+00:00"
-    },
-    {
-      "date": "2025-09-13T19:00:00.000Z",
-      "band_name": "THE BEAUTY OF GEMINA",
-      "band_id": 5116,
-      "venue": "Atlantis",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1OTc3LCJwdXIiOiJibG9iX2lkIn19--2a9b72d366e1508f8be4b8a1a1364aa7579ee666/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/michael-sele-by-julian-konrad_klein.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5116",
-      "event_name": "Songs Of Homecoming Tour 2025",
-      "venue_url": "https://atlantis-basel.ch/musik-kultur/",
-      "parsed_date": "2025-09-13T19:00:00+00:00"
-    },
-    {
-      "date": "2025-09-16T14:00:00.000Z",
-      "band_name": "TAKE THE 55",
-      "band_id": 107587,
-      "venue": "REHAB",
-      "location": "BASEL",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcyMzUyLCJwdXIiOiJibG9iX2lkIn19--2735fa8b18c6ee63cf658f6c922310b19c77b261/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/TAKE%20THE%2055%20-%20%202024.jpeg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/107587",
-      "event_name": "REHAB, PUK, BSB",
-      "venue_url": null,
-      "parsed_date": "2025-09-16T14:00:00+00:00"
-    },
-    {
-      "date": "2025-09-19T16:30:00.000Z",
-      "band_name": "TAKE THE 55",
-      "band_id": 107587,
-      "venue": "RESTAURANT HOLZSCHOPF ",
-      "location": "BASEL",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcyMzUyLCJwdXIiOiJibG9iX2lkIn19--2735fa8b18c6ee63cf658f6c922310b19c77b261/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/TAKE%20THE%2055%20-%20%202024.jpeg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/107587",
-      "event_name": null,
-      "venue_url": "https://www.holzschopf-basel.ch",
-      "parsed_date": "2025-09-19T16:30:00+00:00"
-    },
-    {
-      "date": "2025-09-19T18:00:00.000Z",
-      "band_name": "Matteo Bussy",
-      "band_id": 128113,
-      "venue": "Verien Vario",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUyOTYwLCJwdXIiOiJibG9iX2lkIn19--49cb4394940bb8adc4256405fa23c70a6d93d749/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/img_4177.jpeg",
-      "band_categories": [
-        "Jazz - musiques improvis\u00e9es"
-      ],
-      "mx3_url": "https://mx3.ch/bands/128113",
-      "event_name": "Matteo Bussy ",
-      "venue_url": null,
-      "parsed_date": "2025-09-19T18:00:00+00:00"
-    },
-    {
-      "date": "2025-10-10T19:00:00.000Z",
-      "band_name": "POWERHILL",
-      "band_id": 7517,
-      "venue": "Sunbea.ch-club",
-      "location": "4053 Basel",
-      "location_normalized": "4053basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYyMjYyLCJwdXIiOiJibG9iX2lkIn19--1d1dae5af78483a0a4040509953e5d29c7c4aed0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Clotilde%201%20Head%20(Powerhill).png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/7517",
-      "event_name": "Powerhill",
-      "venue_url": "https://sunbea.ch/veranstaltungen",
-      "parsed_date": "2025-10-10T19:00:00+00:00"
-    },
-    {
-      "date": "2025-10-17T17:30:00.000Z",
-      "band_name": "Chris & Mike",
-      "band_id": 34384,
-      "venue": "Basel, Kulturhuus H\u00e4bse",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NDcwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--8268fda5aab8e60ea488f8ce61877e13f92896d0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/CM_Premiere25_s.jpg",
-      "band_categories": [
-        "Jazz - musiques improvis\u00e9es"
-      ],
-      "mx3_url": "https://mx3.ch/bands/34384",
-      "event_name": "CHRIS & MIKE - unique",
-      "venue_url": "https://chrismike.ch/tickets",
-      "parsed_date": "2025-10-17T17:30:00+00:00"
-    },
-    {
-      "date": "2025-10-23T18:00:00.000Z",
-      "band_name": "Two & The Sun",
-      "band_id": 108049,
-      "venue": "Atlantis Basel",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk5MjA2LCJwdXIiOiJibG9iX2lkIn19--c5571b7f677bff5490731079ee1bdd5646fb1bc0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/TATS%20presse_1.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/108049",
-      "event_name": "Clubtour",
-      "venue_url": "https://eventfrog.ch/de/p/konzert/indie-alternative/two-the-sun-7321545684993184131.html",
-      "parsed_date": "2025-10-23T18:00:00+00:00"
-    },
-    {
-      "date": "2025-10-26T19:00:00.000Z",
-      "band_name": "touche ma bouche",
-      "band_id": 126997,
-      "venue": "Parterre",
-      "location": "Basel",
-      "location_normalized": "basel",
-      "canton": "BS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIzMzcyLCJwdXIiOiJibG9iX2lkIn19--158b93e022bfea03e9f0151b788fcde95e527f2c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_5273.jpg",
-      "band_categories": [
-        "Chanson"
-      ],
-      "mx3_url": "https://mx3.ch/bands/126997",
-      "event_name": null,
-      "venue_url": "https://www.parterre.net",
-      "parsed_date": "2025-10-26T19:00:00+00:00"
-    },
-    {
-      "date": "2025-11-14T20:00:00.000Z",
-      "band_name": "Dance for Ishtar",
-      "band_id": 121110,
-      "venue": "Atlantis Basel",
-      "location": "Atlantis Basel",
-      "location_normalized": "atlantisbasel",
-      "canton": "BL",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzI4NzQ2LCJwdXIiOiJibG9iX2lkIn19--3755b24cc859a2c34d3e1e1f2320750e18672eda/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/threema-20240808-211343357.jpg",
-      "band_categories": [
-        "Funk R&B Soul"
-      ],
-      "mx3_url": "https://mx3.ch/bands/121110",
-      "event_name": "Atlantis Basel",
-      "venue_url": "https://atlantis-basel.ch/musik-kultur/",
-      "parsed_date": "2025-11-14T20:00:00+00:00"
-    }
-  ],
-  "Luzern": [
-    {
-      "date": "2025-08-31T08:00:00.000Z",
-      "band_name": "Crazy Daze Big Band",
-      "band_id": 36623,
-      "venue": "Musikpavillon am Nationalquai",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzY1ODEsInB1ciI6ImJsb2JfaWQifX0=--a82c395d5be68aa3b85ec038ab5272ac3665dac0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/_DSC4252.jpg",
-      "band_categories": [
-        "Jazz - musiques improvis\u00e9es"
-      ],
-      "mx3_url": "https://mx3.ch/bands/36623",
-      "event_name": "Haldenstrasse, Luzern",
-      "venue_url": "http://www.luzern.com/pavillon",
-      "parsed_date": "2025-08-31T08:00:00+00:00"
-    },
-    {
-      "date": "2025-09-05T18:30:00.000Z",
-      "band_name": "Glenn Garbo",
-      "band_id": 131319,
-      "venue": "Marianischer Saal Luzern",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MzQyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--636ba01df545434bed5677f74b6aab912cb061a1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/MathiasBiele_0981.jpeg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/131319",
-      "event_name": "Glenn Garbo presents \u201eResilience Avenue\u201c",
-      "venue_url": null,
-      "parsed_date": "2025-09-05T18:30:00+00:00"
-    },
-    {
-      "date": "2025-09-13T18:00:00.000Z",
-      "band_name": "Johnethen Fuchs",
-      "band_id": 129009,
-      "venue": "Raedwulf Pub",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYxNzMwLCJwdXIiOiJibG9iX2lkIn19--39e0d797ede2cf9c97c7510f54311103007fbc8f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fuchs-20241017-22.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/129009",
-      "event_name": "Johnethen Fuchs & The Spirit Animals",
-      "venue_url": "https://raedwulf.ch/event/live-johnethen-fuchs-the-spirit-animals/",
-      "parsed_date": "2025-09-13T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-14T19:00:00.000Z",
-      "band_name": "Fredy Pi.",
-      "band_id": 5381,
-      "venue": "Zentralbar Luzern",
-      "location": "Zentralbar, Zentralstrassse 10, Luzern",
-      "location_normalized": "zentralbarzentralstrassse10luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5381",
-      "event_name": "Fredy Pi. -Solo - LIVE",
-      "venue_url": null,
-      "parsed_date": "2025-09-14T19:00:00+00:00"
-    },
-    {
-      "date": "2025-09-18T18:00:00.000Z",
-      "band_name": "Anna Mae",
-      "band_id": 42214,
-      "venue": "Jazzkantine",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwMzM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bdd2c587cada125ff4c96715ffebb95b5453f63f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/profilbild%C3%A4nderung%20nah.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/42214",
-      "event_name": "Showcase: Anna Mae meets Brian Wilkie",
-      "venue_url": "https://www.jazzkantine.com/",
-      "parsed_date": "2025-09-18T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-21T09:00:00.000Z",
-      "band_name": "Tobias Pestalozzi",
-      "band_id": 105943,
-      "venue": "Big Band Matin\u00e9e, Pepe Lienhard Big Band feat. Swing4you",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI1ODkxLCJwdXIiOiJibG9iX2lkIn19--686461931c851919f15c7775a829b4c47a554e81/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/mx3_hintergrund3.jpg",
-      "band_categories": [
-        "Jazz - musiques improvis\u00e9es"
-      ],
-      "mx3_url": "https://mx3.ch/bands/105943",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-09-21T09:00:00+00:00"
-    },
-    {
-      "date": "2025-09-25T18:00:00.000Z",
-      "band_name": "Rambling Ponies",
-      "band_id": 117736,
-      "venue": "Bierposten",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2NjM5LCJwdXIiOiJibG9iX2lkIn19--f0b64871968f34dfe0781b7f1d1e09dd518011ca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ramblingponies_2023_4.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/117736",
-      "event_name": null,
-      "venue_url": "https://www.kruegelbier.ch/das-sind-wir",
-      "parsed_date": "2025-09-25T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-28T19:00:00.000Z",
-      "band_name": "Fredy Pi.",
-      "band_id": 5381,
-      "venue": "Zentralbar Luzern",
-      "location": "Zentralbar, Zentralstrassse 10, Luzern",
-      "location_normalized": "zentralbarzentralstrassse10luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5381",
-      "event_name": "Fredy Pi. -Solo - LIVE",
-      "venue_url": null,
-      "parsed_date": "2025-09-28T19:00:00+00:00"
-    },
-    {
-      "date": "2025-10-04T18:00:00.000Z",
-      "band_name": "Sixty Strings",
-      "band_id": 117251,
-      "venue": "Raedwulf, Luzern",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM5NDQzNywicHVyIjoiYmxvYl9pZCJ9fQ==--a9054edeaec1656343b90550c36be8cd2067b921/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--416e600a58b54a72dcc6b3e2cdd63433d211f7a4/Flyer%202024.JPG",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/117251",
-      "event_name": "Raedwulf",
-      "venue_url": "https://raedwulf.ch/event/live-duo-sixty-strings/",
-      "parsed_date": "2025-10-04T18:00:00+00:00"
-    },
-    {
-      "date": "2025-10-12T19:00:00.000Z",
-      "band_name": "Fredy Pi.",
-      "band_id": 5381,
-      "venue": "Zentralbar Luzern",
-      "location": "Zentralbar, Zentralstrassse 10, Luzern",
-      "location_normalized": "zentralbarzentralstrassse10luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5381",
-      "event_name": "Fredy Pi. -Solo - LIVE",
-      "venue_url": null,
-      "parsed_date": "2025-10-12T19:00:00+00:00"
-    },
-    {
-      "date": "2025-10-18T18:30:00.000Z",
-      "band_name": "Pluquarius",
-      "band_id": 125096,
-      "venue": "Raedwulf-Pub",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA4NzU1LCJwdXIiOiJibG9iX2lkIn19--04e1c8d0c44271dbe0325b35c5477934380846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/customcolor_icon_customcolor_background.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/125096",
-      "event_name": null,
-      "venue_url": "https://raedwulf.ch/event/live-pluquarius-2/",
-      "parsed_date": "2025-10-18T18:30:00+00:00"
-    },
-    {
-      "date": "2025-10-24T18:00:00.000Z",
-      "band_name": "Crawling Crows",
-      "band_id": 113337,
-      "venue": "Jazzkantine Luzern",
-      "location": "Luzern",
-      "location_normalized": "luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1MTMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--80c906243592d9ed0f109114e3157c0f1ef7cf7c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/KIFF_Aarau_CrawlingCrows_2025%20_2000px_120%20_mitchproductions.ch.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/113337",
-      "event_name": "Crawling Crows Live",
-      "venue_url": "https://www.jazzkantine.com/veranstaltungen",
-      "parsed_date": "2025-10-24T18:00:00+00:00"
-    },
-    {
-      "date": "2025-10-26T20:00:00.000Z",
-      "band_name": "Fredy Pi.",
-      "band_id": 5381,
-      "venue": "Zentralbar Luzern",
-      "location": "Zentralbar, Zentralstrassse 10, Luzern",
-      "location_normalized": "zentralbarzentralstrassse10luzern",
-      "canton": "LU",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/5381",
-      "event_name": "Fredy Pi. -Solo - LIVE",
-      "venue_url": null,
-      "parsed_date": "2025-10-26T20:00:00+00:00"
-    }
-  ],
-  "Walenstadt": [
-    {
-      "date": "2025-08-31T12:30:00.000Z",
-      "band_name": "Last Avenue",
-      "band_id": 8978,
-      "venue": "Walensee Street-Food-Festival",
-      "location": "8880 Walenstadt",
-      "location_normalized": "8880walenstadt",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMyMTM3LCJwdXIiOiJibG9iX2lkIn19--37beaf7506a00fe858197aa1eed3ebc3ed0c72c5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/last-avenue5.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/8978",
-      "event_name": "Last Avenue",
-      "venue_url": "https://www.eventom.ch/",
-      "parsed_date": "2025-08-31T12:30:00+00:00"
-    }
-  ],
-  "Lausanne": [
-    {
-      "date": "2025-08-31T13:00:00.000Z",
-      "band_name": "ChapVert",
-      "band_id": 119824,
-      "venue": "Maison de Quartier du D\u00e9sert",
-      "location": "Chem. de Pierrefleur 72, 1004 Lausanne, Suisse",
-      "location_normalized": "chemdepierrefleur721004lausannesuisse",
-      "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMwMDM2NywicHVyIjoiYmxvYl9pZCJ9fQ==--0eb8b39a053ab42d5aef7cee94dddebb3b08a6dd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/2.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/119824",
-      "event_name": "Lausanne",
-      "venue_url": "https://maisondudesert.ch/",
-      "parsed_date": "2025-08-31T13:00:00+00:00"
-    },
-    {
-      "date": "2025-09-05T17:30:00.000Z",
-      "band_name": "TURBULENCES",
-      "band_id": 131312,
-      "venue": "Tourne-Films Festival",
-      "location": "Lausanne",
-      "location_normalized": "lausanne",
-      "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MjU4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--057852d253f98e28c2c0f56493a28b3aa06e9635/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/21.06.25-FeteMusique-8457-NB.jpg",
-      "band_categories": [
-        "Chanson"
-      ],
-      "mx3_url": "https://mx3.ch/bands/131312",
-      "event_name": null,
-      "venue_url": "https://tffl.ch/",
-      "parsed_date": "2025-09-05T17:30:00+00:00"
-    },
-    {
-      "date": "2025-09-06T17:30:00.000Z",
-      "band_name": "RAKI",
-      "band_id": 51065,
-      "venue": "Le Sublime",
-      "location": "Lausanne",
-      "location_normalized": "lausanne",
-      "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NzA5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--75e84a6b6e25e3d1fad2c000219857a77bab2703/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/PERIOD%20photo%20radio.png",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/51065",
-      "event_name": null,
-      "venue_url": "https://lesublime.ch/produit/06-09-raki-vernissage/",
-      "parsed_date": "2025-09-06T17:30:00+00:00"
-    },
-    {
-      "date": "2025-09-13T12:00:00.000Z",
-      "band_name": "NOW ACCESS",
-      "band_id": 128406,
-      "venue": "Place de la Navigation",
-      "location": "Lausanne",
-      "location_normalized": "lausanne",
-      "canton": "VD",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAxNTU1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b8529501e7ad9aa5e945f1e2f434497ff69bad79/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Logo%20Now%20Access.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/128406",
-      "event_name": "Festiv'Ouchy",
-      "venue_url": null,
-      "parsed_date": "2025-09-13T12:00:00+00:00"
-    }
-  ],
-  "Val-de-Ruz": [
-    {
-      "date": "2025-08-31T13:00:00.000Z",
-      "band_name": "Sim's",
-      "band_id": 1376,
-      "venue": "Festi VAl de Ruz",
-      "location": "FestiValdeRuz",
-      "location_normalized": "festivalderuz",
-      "canton": "NE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMxNDc3LCJwdXIiOiJibG9iX2lkIn19--57a4b06b813055c5db5b8aad0625bd56c20acb18/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/img_0043.jpg",
-      "band_categories": [
-        "Hip Hop rap new beats"
-      ],
-      "mx3_url": "https://mx3.ch/bands/1376",
-      "event_name": null,
-      "venue_url": "https://festivalderuz.ch",
-      "parsed_date": "2025-08-31T13:00:00+00:00"
-    }
-  ],
-  "St. Gallen": [
-    {
-      "date": "2025-08-31T14:00:00.000Z",
-      "band_name": "Max Berend",
-      "band_id": 115326,
-      "venue": "Milit\u00e4rkantine",
-      "location": "St. Gallen",
-      "location_normalized": "stgallen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzI1NjAxLCJwdXIiOiJibG9iX2lkIn19--c07d759fa5269befba86ca916cda987c89931658/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/_mg_5601.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/115326",
-      "event_name": "Let's Summer 2025 - Max Berend & Band on Summer Tour",
-      "venue_url": "https://www.militaerkantine.ch/de/veranstaltung/max-berend",
-      "parsed_date": "2025-08-31T14:00:00+00:00"
-    },
-    {
-      "date": "2025-09-06T15:00:00.000Z",
-      "band_name": "WE ARE AVA",
-      "band_id": 103989,
-      "venue": "Jubil\u00e4umsfest Silberturm",
-      "location": "St. Gallen",
-      "location_normalized": "stgallen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNDM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--79b824f494510d9d323cfda5511ce7168401b49e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/WeAreAva_Pressebild-2025_09_highres.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/103989",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-09-06T15:00:00+00:00"
-    },
-    {
-      "date": "2025-09-12T18:00:00.000Z",
-      "band_name": "Ed Blue & The Rootstocks",
-      "band_id": 106012,
-      "venue": "Lokremise St. Gallen",
-      "location": "St. Gallen",
-      "location_normalized": "stgallen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE5MTM0LCJwdXIiOiJibG9iX2lkIn19--5296c1c62dd7dc08731a18e7d28ba09067014822/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/ed-blue-and-the-rootstocks-2024-industrie36-pino-buoro-41.jpeg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/106012",
-      "event_name": "Ed Blue & The Rootstocks",
-      "venue_url": "https://www.lokremise.ch/",
-      "parsed_date": "2025-09-12T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-19T18:30:00.000Z",
-      "band_name": "Bungle Brothers",
-      "band_id": 100363,
-      "venue": "Plattentaufe Restfunkstrahlen im R\u00fcmpeltum",
-      "location": "St.Gallen",
-      "location_normalized": "stgallen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0MjAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--25a0fff72a890a07c4fdc5d52cc03082ebb14a66/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Frontside%20Cover.png",
-      "band_categories": [
-        "Hip Hop rap new beats"
-      ],
-      "mx3_url": "https://mx3.ch/bands/100363",
-      "event_name": "R\u00fcmpeltum",
-      "venue_url": "http://www.bunglebrothers.ch",
-      "parsed_date": "2025-09-19T18:30:00+00:00"
-    },
-    {
-      "date": "2025-09-20T13:00:00.000Z",
-      "band_name": "Andy McSean",
-      "band_id": 45465,
-      "venue": "Sitter Valley",
-      "location": "St. Gallen",
-      "location_normalized": "stgallen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NDI1LCJwdXIiOiJibG9iX2lkIn19--2a95baee141f0470b65e6175e9adf6cba0927ced/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ams-s2.jpg",
-      "band_categories": [
-        "Pop"
-      ],
-      "mx3_url": "https://mx3.ch/bands/45465",
-      "event_name": "Open Days",
-      "venue_url": "https://sittervalley.ch/open-day/",
-      "parsed_date": "2025-09-20T13:00:00+00:00"
-    },
-    {
-      "date": "2025-09-20T18:00:00.000Z",
-      "band_name": "D\u0254\u0303",
-      "band_id": 125030,
-      "venue": "Lenyland",
-      "location": "St. Gallen Bruggen",
-      "location_normalized": "stgallenbruggen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTc0OTg4LCJwdXIiOiJibG9iX2lkIn19--800f1c21425d6ee7999a9f00ea7531ccd520fd52/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/02_Gruen_Logo_Do.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/125030",
-      "event_name": "Lenyland",
-      "venue_url": null,
-      "parsed_date": "2025-09-20T18:00:00+00:00"
-    },
-    {
-      "date": "2025-10-09T19:00:00.000Z",
-      "band_name": "Q-7 three times",
-      "band_id": 108582,
-      "venue": "Grabenhalle",
-      "location": "St.Gallen",
-      "location_normalized": "stgallen",
-      "canton": "SG",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNTcyLCJwdXIiOiJibG9iX2lkIn19--8d22e83d9f262bfe600a58d896767d530f044c6d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/q73x-band_01-01_q.png",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/108582",
-      "event_name": "Q-7 Three Times",
-      "venue_url": "https://www.grabenhalle.ch/",
-      "parsed_date": "2025-10-09T19:00:00+00:00"
-    }
-  ],
-  "Wangen": [
-    {
-      "date": "2025-08-31T15:00:00.000Z",
-      "band_name": "the 2 of us",
-      "band_id": 47051,
-      "venue": "Konzert - \u00d6ffentlich (Saison - Abschlussfest)",
-      "location": "Wangen a. Aare (Aarebar - the place to be)",
-      "location_normalized": "wangenaaareaarebartheplacetobe",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODI2ODgsInB1ciI6ImJsb2JfaWQifX0=--d7f270296c80a256da9d0d896bba1dcf7a5be0b8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_1358.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/47051",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-08-31T15:00:00+00:00"
-    }
-  ],
-  "Flurlingen": [
-    {
-      "date": "2025-08-31T16:00:00.000Z",
-      "band_name": "Black Cat's Smoking",
-      "band_id": 104051,
-      "venue": "Carcajou",
-      "location": "Carcajou Flurlingen",
-      "location_normalized": "carcajouflurlingen",
-      "canton": "ZH",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NjE4LCJwdXIiOiJibG9iX2lkIn19--93ab41297475bd648f0bcbcbd234d2f7468d73b8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/bcs_v3_queer_bw.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/104051",
-      "event_name": "Black Cat's Smoking @Sundasounds Carcajou",
-      "venue_url": "https://carcajou.ch/",
-      "parsed_date": "2025-08-31T16:00:00+00:00"
-    }
-  ],
-  "Bern": [
-    {
-      "date": "2025-08-31T18:00:00.000Z",
-      "band_name": "Feet Peals",
-      "band_id": 4571,
-      "venue": "La Cappella",
-      "location": "Bern",
-      "location_normalized": "bern",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE5NjQ3LCJwdXIiOiJibG9iX2lkIn19--6e81a7c951a3a227efa56f42d95d6524d254d0b4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/feet-peals-2019_05_72dpi_byromanburri.jpg",
-      "band_categories": [
-        "Chanson"
-      ],
-      "mx3_url": "https://mx3.ch/bands/4571",
-      "event_name": "EP-Taufe",
-      "venue_url": "https://www.la-cappella.ch/",
-      "parsed_date": "2025-08-31T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-05T18:00:00.000Z",
-      "band_name": "Anna Mae",
-      "band_id": 42214,
-      "venue": "Villa Stucki",
-      "location": "Bern",
-      "location_normalized": "bern",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwMzM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bdd2c587cada125ff4c96715ffebb95b5453f63f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/profilbild%C3%A4nderung%20nah.jpg",
-      "band_categories": [
-        "Folk country blues"
-      ],
-      "mx3_url": "https://mx3.ch/bands/42214",
-      "event_name": "Special Anna Mae & Brian Wilkie",
-      "venue_url": "https://www.villastucki.ch/",
-      "parsed_date": "2025-09-05T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-11T18:00:00.000Z",
-      "band_name": "God in Therapy",
-      "band_id": 126554,
-      "venue": "Sch\u00fctz Sommerb\u00fchne",
-      "location": "Bern",
-      "location_normalized": "bern",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE5ODA2LCJwdXIiOiJibG9iX2lkIn19--fa46b4024fe19d0eef4f25d3dab2d54d2d5c40b7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/1-post.jpeg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/126554",
-      "event_name": "10 Jahre OpenBordersCaravanBern",
-      "venue_url": "https://www.schuetzenmatte.be/",
-      "parsed_date": "2025-09-11T18:00:00+00:00"
-    },
-    {
-      "date": "2025-09-11T18:00:00.000Z",
-      "band_name": "Milla.",
-      "band_id": 50375,
-      "venue": "Living Room Series",
-      "location": "Bern",
-      "location_normalized": "bern",
-      "canton": "BE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk2NjAzLCJwdXIiOiJibG9iX2lkIn19--989f1e67eb66e8a26ff04c7e750c5204d1c14f43/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/capture-d-ecran-2023-09-25-a-11-57-41.png",
-      "band_categories": [
-        "Chanson"
-      ],
-      "mx3_url": "https://mx3.ch/bands/50375",
-      "event_name": "Milla",
-      "venue_url": null,
-      "parsed_date": "2025-09-11T18:00:00+00:00"
+      "mx3_url": "https://mx3.ch/bands/131238",
+      "event_name": "Association Satellite",
+      "venue_url": "https://satellite.bar/",
+      "parsed_date": "2025-09-03T18:00:00+00:00"
     }
   ],
   "Monthey": [
@@ -1850,23 +35,6 @@
       "event_name": "After Work Till Midnight",
       "venue_url": "https://eventmagie.ch/Events/AfterWorks/",
       "parsed_date": "2025-09-04T16:00:00+00:00"
-    },
-    {
-      "date": "2025-10-24T19:00:00.000Z",
-      "band_name": "KAHFA",
-      "band_id": 115212,
-      "venue": "TBA",
-      "location": "1870 Monthey",
-      "location_normalized": "1870monthey",
-      "canton": "VS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNzA3LCJwdXIiOiJibG9iX2lkIn19--43cd15589ec1745826ce70a3071243ec2b06b709/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/KAHFA-2025-1.jpg",
-      "band_categories": [
-        "Metal Punk HxC"
-      ],
-      "mx3_url": "https://mx3.ch/bands/115212",
-      "event_name": null,
-      "venue_url": null,
-      "parsed_date": "2025-10-24T19:00:00+00:00"
     }
   ],
   "Bellevue": [
@@ -2079,6 +247,280 @@
       "parsed_date": "2025-11-14T22:30:00+00:00"
     }
   ],
+  "Basel": [
+    {
+      "date": "2025-09-04T22:00:00.000Z",
+      "band_name": "Nomuel",
+      "band_id": 102746,
+      "venue": "Jugendkulturfestival",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMDkxMywicHVyIjoiYmxvYl9pZCJ9fQ==--efa7dae6a4c2c898cb59c70373c2cacb0e7cf1f9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Nomuel_Pressefotos&Cover_Export_@fioniversace-1790.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/102746",
+      "event_name": null,
+      "venue_url": "https://jkf.ch/",
+      "parsed_date": "2025-09-04T22:00:00+00:00"
+    },
+    {
+      "date": "2025-09-05T17:10:00.000Z",
+      "band_name": "ZOEY",
+      "band_id": 104452,
+      "venue": "JKF Basel",
+      "location": "Barf\u00fcsserplatz Basel",
+      "location_normalized": "barfsserplatzbasel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MTYyLCJwdXIiOiJibG9iX2lkIn19--c7b0a82766e13667731b201405cdf7ba91a5acb3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Auswahl%201.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/104452",
+      "event_name": "Jugendkulturfestival Basel",
+      "venue_url": "https://jkf.ch",
+      "parsed_date": "2025-09-05T17:10:00+00:00"
+    },
+    {
+      "date": "2025-09-06T20:45:00.000Z",
+      "band_name": "Robot Dog Funeral",
+      "band_id": 125366,
+      "venue": "Jugendkulturfestival",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyNzczLCJwdXIiOiJibG9iX2lkIn19--07aad80a7fcd54f86a0c454d1746b1651fdb1f3d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/sand_robot-dog-funeral-3486_crop.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/125366",
+      "event_name": null,
+      "venue_url": "https://programm.jkf.ch/acts/robot-dog-funeral",
+      "parsed_date": "2025-09-06T20:45:00+00:00"
+    },
+    {
+      "date": "2025-09-12T15:00:00.000Z",
+      "band_name": "ANAHONDA",
+      "band_id": 121752,
+      "venue": "FL\u00c2NEUR",
+      "location": "BASEL",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEzODU3LCJwdXIiOiJibG9iX2lkIn19--837cc2920ac1e0081b78576d193e22b068960213/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/img_9075.png",
+      "band_categories": [
+        "Electro trip hop - ambient"
+      ],
+      "mx3_url": "https://mx3.ch/bands/121752",
+      "event_name": null,
+      "venue_url": "https://www.flaneurbasel.ch/",
+      "parsed_date": "2025-09-12T15:00:00+00:00"
+    },
+    {
+      "date": "2025-09-12T18:00:00.000Z",
+      "band_name": "Greg",
+      "band_id": 115040,
+      "venue": "Atlantis, Basel",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYzODc3LCJwdXIiOiJibG9iX2lkIn19--4bc9fd6bab899aa6b8615498f727925e35487451/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Konzert%20Flyer%20klein%202025-Sticker.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/115040",
+      "event_name": "GREG",
+      "venue_url": "https://www.greg-musik.ch/",
+      "parsed_date": "2025-09-12T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-12T18:00:00.000Z",
+      "band_name": "TAKE THE 55",
+      "band_id": 107587,
+      "venue": "WEHRM\u00c4NNERDENKMAL  BRUDERHOLZ",
+      "location": "BASEL",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcyMzUyLCJwdXIiOiJibG9iX2lkIn19--2735fa8b18c6ee63cf658f6c922310b19c77b261/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/TAKE%20THE%2055%20-%20%202024.jpeg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/107587",
+      "event_name": "100-Jahr-Jubil\u00e0um",
+      "venue_url": null,
+      "parsed_date": "2025-09-12T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-12T19:00:00.000Z",
+      "band_name": "Johnny Mancini",
+      "band_id": 116519,
+      "venue": "Kleiner Wassermann",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1OTk5MywicHVyIjoiYmxvYl9pZCJ9fQ==--50a0e2934e207b8ba51893525a55d9bfdff193f8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/johnnymancini_cover2.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/116519",
+      "event_name": null,
+      "venue_url": "https://kleinerwassermann.cafe",
+      "parsed_date": "2025-09-12T19:00:00+00:00"
+    },
+    {
+      "date": "2025-09-13T19:00:00.000Z",
+      "band_name": "THE BEAUTY OF GEMINA",
+      "band_id": 5116,
+      "venue": "Atlantis",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1OTc3LCJwdXIiOiJibG9iX2lkIn19--2a9b72d366e1508f8be4b8a1a1364aa7579ee666/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/michael-sele-by-julian-konrad_klein.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/5116",
+      "event_name": "Songs Of Homecoming Tour 2025",
+      "venue_url": "https://atlantis-basel.ch/musik-kultur/",
+      "parsed_date": "2025-09-13T19:00:00+00:00"
+    },
+    {
+      "date": "2025-09-16T14:00:00.000Z",
+      "band_name": "TAKE THE 55",
+      "band_id": 107587,
+      "venue": "REHAB",
+      "location": "BASEL",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcyMzUyLCJwdXIiOiJibG9iX2lkIn19--2735fa8b18c6ee63cf658f6c922310b19c77b261/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/TAKE%20THE%2055%20-%20%202024.jpeg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/107587",
+      "event_name": "REHAB, PUK, BSB",
+      "venue_url": null,
+      "parsed_date": "2025-09-16T14:00:00+00:00"
+    },
+    {
+      "date": "2025-09-19T16:30:00.000Z",
+      "band_name": "TAKE THE 55",
+      "band_id": 107587,
+      "venue": "RESTAURANT HOLZSCHOPF ",
+      "location": "BASEL",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcyMzUyLCJwdXIiOiJibG9iX2lkIn19--2735fa8b18c6ee63cf658f6c922310b19c77b261/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/TAKE%20THE%2055%20-%20%202024.jpeg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/107587",
+      "event_name": null,
+      "venue_url": "https://www.holzschopf-basel.ch",
+      "parsed_date": "2025-09-19T16:30:00+00:00"
+    },
+    {
+      "date": "2025-09-19T18:00:00.000Z",
+      "band_name": "Matteo Bussy",
+      "band_id": 128113,
+      "venue": "Verien Vario",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUyOTYwLCJwdXIiOiJibG9iX2lkIn19--49cb4394940bb8adc4256405fa23c70a6d93d749/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/img_4177.jpeg",
+      "band_categories": [
+        "Jazz - musiques improvis\u00e9es"
+      ],
+      "mx3_url": "https://mx3.ch/bands/128113",
+      "event_name": "Matteo Bussy ",
+      "venue_url": null,
+      "parsed_date": "2025-09-19T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-10T19:00:00.000Z",
+      "band_name": "POWERHILL",
+      "band_id": 7517,
+      "venue": "Sunbea.ch-club",
+      "location": "4053 Basel",
+      "location_normalized": "4053basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYyMjYyLCJwdXIiOiJibG9iX2lkIn19--1d1dae5af78483a0a4040509953e5d29c7c4aed0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Clotilde%201%20Head%20(Powerhill).png",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/7517",
+      "event_name": "Powerhill",
+      "venue_url": "https://sunbea.ch/veranstaltungen",
+      "parsed_date": "2025-10-10T19:00:00+00:00"
+    },
+    {
+      "date": "2025-10-17T17:30:00.000Z",
+      "band_name": "Chris & Mike",
+      "band_id": 34384,
+      "venue": "Basel, Kulturhuus H\u00e4bse",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NDcwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--8268fda5aab8e60ea488f8ce61877e13f92896d0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/CM_Premiere25_s.jpg",
+      "band_categories": [
+        "Jazz - musiques improvis\u00e9es"
+      ],
+      "mx3_url": "https://mx3.ch/bands/34384",
+      "event_name": "CHRIS & MIKE - unique",
+      "venue_url": "https://chrismike.ch/tickets",
+      "parsed_date": "2025-10-17T17:30:00+00:00"
+    },
+    {
+      "date": "2025-10-23T18:00:00.000Z",
+      "band_name": "Two & The Sun",
+      "band_id": 108049,
+      "venue": "Atlantis Basel",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk5MjA2LCJwdXIiOiJibG9iX2lkIn19--c5571b7f677bff5490731079ee1bdd5646fb1bc0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/TATS%20presse_1.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/108049",
+      "event_name": "Clubtour",
+      "venue_url": "https://eventfrog.ch/de/p/konzert/indie-alternative/two-the-sun-7321545684993184131.html",
+      "parsed_date": "2025-10-23T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-26T19:00:00.000Z",
+      "band_name": "touche ma bouche",
+      "band_id": 126997,
+      "venue": "Parterre",
+      "location": "Basel",
+      "location_normalized": "basel",
+      "canton": "BS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIzMzcyLCJwdXIiOiJibG9iX2lkIn19--158b93e022bfea03e9f0151b788fcde95e527f2c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_5273.jpg",
+      "band_categories": [
+        "Chanson"
+      ],
+      "mx3_url": "https://mx3.ch/bands/126997",
+      "event_name": null,
+      "venue_url": "https://www.parterre.net",
+      "parsed_date": "2025-10-26T19:00:00+00:00"
+    },
+    {
+      "date": "2025-11-14T20:00:00.000Z",
+      "band_name": "Dance for Ishtar",
+      "band_id": 121110,
+      "venue": "Atlantis Basel",
+      "location": "Atlantis Basel",
+      "location_normalized": "atlantisbasel",
+      "canton": "BL",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzI4NzQ2LCJwdXIiOiJibG9iX2lkIn19--3755b24cc859a2c34d3e1e1f2320750e18672eda/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/threema-20240808-211343357.jpg",
+      "band_categories": [
+        "Funk R&B Soul"
+      ],
+      "mx3_url": "https://mx3.ch/bands/121110",
+      "event_name": "Atlantis Basel",
+      "venue_url": "https://atlantis-basel.ch/musik-kultur/",
+      "parsed_date": "2025-11-14T20:00:00+00:00"
+    }
+  ],
   "Assens": [
     {
       "date": "2025-09-05T00:00:00.000Z",
@@ -2174,6 +616,76 @@
       "parsed_date": "2025-09-05T15:00:00+00:00"
     }
   ],
+  "Winterthur": [
+    {
+      "date": "2025-09-05T16:00:00.000Z",
+      "band_name": "Catbird",
+      "band_id": 39719,
+      "venue": "LOKal",
+      "location": "Winterthur",
+      "location_normalized": "winterthur",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyODMyLCJwdXIiOiJibG9iX2lkIn19--47e6a469c40746f0580c3d4d21530dba4bee84c4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/bildschirmfoto-2023-11-13-um-23-56-11.png",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/39719",
+      "event_name": "Winterthur Unplugged",
+      "venue_url": "https://lok.al/winterthur/",
+      "parsed_date": "2025-09-05T16:00:00+00:00"
+    },
+    {
+      "date": "2025-09-06T15:00:00.000Z",
+      "band_name": "Cecilia Ugarte",
+      "band_id": 45715,
+      "venue": "Quartierfest Neuwiesen",
+      "location": "8400 Winterthur ",
+      "location_normalized": "8400winterthur",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2NjcxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9fe8c571923b1c0e1487eeadfe59e00eeeb019ad/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/73923.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/45715",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-06T15:00:00+00:00"
+    },
+    {
+      "date": "2025-09-06T18:00:00.000Z",
+      "band_name": "Plankton",
+      "band_id": 9261,
+      "venue": "Dialogplatzfest",
+      "location": "Winterthur",
+      "location_normalized": "winterthur",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMyNjQzLCJwdXIiOiJibG9iX2lkIn19--1523f75e77b56658d60e8ffebda533d4a1e396d3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/plankton-2024-b.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/9261",
+      "event_name": null,
+      "venue_url": "https://www.stadtlokt.ch/",
+      "parsed_date": "2025-09-06T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-08T17:30:00.000Z",
+      "band_name": "The Clumzz",
+      "band_id": 128702,
+      "venue": "Portier",
+      "location": "Winterthur",
+      "location_normalized": "winterthur",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU0NzI0LCJwdXIiOiJibG9iX2lkIn19--514257fe4cfe773219477466699b3db746c6b505/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/clumzzb1-1.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/128702",
+      "event_name": "Monomontag",
+      "venue_url": "https://portier.lagerplatz.ch/",
+      "parsed_date": "2025-09-08T17:30:00+00:00"
+    }
+  ],
   "Frauenfeld": [
     {
       "date": "2025-09-05T16:00:00.000Z",
@@ -2208,6 +720,23 @@
       "event_name": null,
       "venue_url": null,
       "parsed_date": "2025-09-06T15:00:00+00:00"
+    },
+    {
+      "date": "2025-11-01T20:00:00.000Z",
+      "band_name": "Last Avenue",
+      "band_id": 8978,
+      "venue": "\u00d6lfleck Bar",
+      "location": "Frauenfeld",
+      "location_normalized": "frauenfeld",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMyMTM3LCJwdXIiOiJibG9iX2lkIn19--37beaf7506a00fe858197aa1eed3ebc3ed0c72c5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/last-avenue5.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/8978",
+      "event_name": "Gianna Chill\u00e0 - Janis Joplin Tribute (IT) supported by Last Avenue",
+      "venue_url": "https://www.oelfleck.ch/",
+      "parsed_date": "2025-11-01T20:00:00+00:00"
     }
   ],
   "Schaffhausen": [
@@ -2384,6 +913,23 @@
       "event_name": null,
       "venue_url": "https://www.braderie-aigle.ch/",
       "parsed_date": "2025-09-06T19:30:00+00:00"
+    },
+    {
+      "date": "2025-09-07T16:00:00.000Z",
+      "band_name": "The PapanamaZ",
+      "band_id": 104771,
+      "venue": "Sc\u00e8ne Bar 64",
+      "location": "Braderie d'Aigle",
+      "location_normalized": "braderiedaigle",
+      "canton": "VD",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIyMzA0LCJwdXIiOiJibG9iX2lkIn19--2dc9b33642800fc08e6d12d81d081777c5a4ca51/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/unnamed-5.jpg",
+      "band_categories": [
+        "Funk R&B Soul"
+      ],
+      "mx3_url": "https://mx3.ch/bands/104771",
+      "event_name": "Concert Braderie d'Aigle",
+      "venue_url": null,
+      "parsed_date": "2025-09-07T16:00:00+00:00"
     }
   ],
   "Biel/Bienne": [
@@ -2403,6 +949,93 @@
       "event_name": null,
       "venue_url": "https://www.biel-bienne.ch/de/first-friday.html/1240",
       "parsed_date": "2025-09-05T17:30:00+00:00"
+    },
+    {
+      "date": "2025-09-19T19:00:00.000Z",
+      "band_name": "Colin Dash",
+      "band_id": 31781,
+      "venue": "Eldorado",
+      "location": "Biel/Bienne",
+      "location_normalized": "bielbienne",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE5MDAwLCJwdXIiOiJibG9iX2lkIn19--84486296f84b1a57144c55d5d3006f76374c1b69/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/d4cf1b6d-807a-4ad2-8435-8cf587e1404b.jpeg",
+      "band_categories": [
+        "Hip Hop rap new beats"
+      ],
+      "mx3_url": "https://mx3.ch/bands/31781",
+      "event_name": "Reminisz\u00e4nz Album Release",
+      "venue_url": "https://eldoradobielbienne.ch/flyer-gallery/",
+      "parsed_date": "2025-09-19T19:00:00+00:00"
+    }
+  ],
+  "Lausanne": [
+    {
+      "date": "2025-09-05T17:30:00.000Z",
+      "band_name": "TURBULENCES",
+      "band_id": 131312,
+      "venue": "Tourne-Films Festival",
+      "location": "Lausanne",
+      "location_normalized": "lausanne",
+      "canton": "VD",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MjU4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--057852d253f98e28c2c0f56493a28b3aa06e9635/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/21.06.25-FeteMusique-8457-NB.jpg",
+      "band_categories": [
+        "Chanson"
+      ],
+      "mx3_url": "https://mx3.ch/bands/131312",
+      "event_name": null,
+      "venue_url": "https://tffl.ch/",
+      "parsed_date": "2025-09-05T17:30:00+00:00"
+    },
+    {
+      "date": "2025-09-06T17:30:00.000Z",
+      "band_name": "RAKI",
+      "band_id": 51065,
+      "venue": "Le Sublime",
+      "location": "Lausanne",
+      "location_normalized": "lausanne",
+      "canton": "VD",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NzY4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4a615cc7b53839653bbeae4e67fad4283f16948d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/SHOOTING_RAKI_2025-7.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/51065",
+      "event_name": null,
+      "venue_url": "https://lesublime.ch/produit/06-09-raki-vernissage/",
+      "parsed_date": "2025-09-06T17:30:00+00:00"
+    },
+    {
+      "date": "2025-09-12T22:00:00.000Z",
+      "band_name": "Stephane Salerno",
+      "band_id": 121491,
+      "venue": "Folklor Club - Lausanne - YAPAANDA",
+      "location": "Pl. de la Riponne 10, 1005 Lausanne",
+      "location_normalized": "pldelariponne101005lausanne",
+      "canton": "VD",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNzAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5383cb8ebd548fe5e83cbf0069c9c54572493a91/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Stephane%20Salerno.png",
+      "band_categories": [
+        "Techno dj dance"
+      ],
+      "mx3_url": "https://mx3.ch/bands/121491",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-12T22:00:00+00:00"
+    },
+    {
+      "date": "2025-09-13T12:00:00.000Z",
+      "band_name": "NOW ACCESS",
+      "band_id": 128406,
+      "venue": "Place de la Navigation",
+      "location": "Lausanne",
+      "location_normalized": "lausanne",
+      "canton": "VD",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAxNTU1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b8529501e7ad9aa5e945f1e2f434497ff69bad79/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Logo%20Now%20Access.png",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/128406",
+      "event_name": "Festiv'Ouchy",
+      "venue_url": null,
+      "parsed_date": "2025-09-13T12:00:00+00:00"
     }
   ],
   "Naters": [
@@ -2456,23 +1089,93 @@
       "event_name": "EP-Taufe Das Dampfwalzenwalfisch",
       "venue_url": null,
       "parsed_date": "2025-10-04T18:00:00+00:00"
+    }
+  ],
+  "Bern": [
+    {
+      "date": "2025-09-05T18:00:00.000Z",
+      "band_name": "Anna Mae",
+      "band_id": 42214,
+      "venue": "Villa Stucki",
+      "location": "Bern",
+      "location_normalized": "bern",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwMzM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bdd2c587cada125ff4c96715ffebb95b5453f63f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/profilbild%C3%A4nderung%20nah.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/42214",
+      "event_name": "Special Anna Mae & Brian Wilkie",
+      "venue_url": "https://www.villastucki.ch/",
+      "parsed_date": "2025-09-05T18:00:00+00:00"
     },
     {
-      "date": "2025-10-18T18:00:00.000Z",
-      "band_name": "KISSIN' BLACK",
-      "band_id": 33413,
-      "venue": "Moshpit",
-      "location": "Naters",
-      "location_normalized": "naters",
-      "canton": "VS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUwOTc4LCJwdXIiOiJibG9iX2lkIn19--0c112c34f26c7ddfa5240db869201a024861507b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/kissinblack.jpg",
+      "date": "2025-09-11T18:00:00.000Z",
+      "band_name": "God in Therapy",
+      "band_id": 126554,
+      "venue": "Sch\u00fctz Sommerb\u00fchne",
+      "location": "Bern",
+      "location_normalized": "bern",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE5ODA2LCJwdXIiOiJibG9iX2lkIn19--fa46b4024fe19d0eef4f25d3dab2d54d2d5c40b7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/1-post.jpeg",
       "band_categories": [
         "Rock"
       ],
-      "mx3_url": "https://mx3.ch/bands/33413",
-      "event_name": "Kissin\u2019 Black \u2502Magma Ocean \u2502Born in Dorian",
-      "venue_url": "https://www.moshpit.ch/programm",
-      "parsed_date": "2025-10-18T18:00:00+00:00"
+      "mx3_url": "https://mx3.ch/bands/126554",
+      "event_name": "10 Jahre OpenBordersCaravanBern",
+      "venue_url": "https://www.schuetzenmatte.be/",
+      "parsed_date": "2025-09-11T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-11T18:00:00.000Z",
+      "band_name": "Milla.",
+      "band_id": 50375,
+      "venue": "Living Room Series",
+      "location": "Bern",
+      "location_normalized": "bern",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk2NjAzLCJwdXIiOiJibG9iX2lkIn19--989f1e67eb66e8a26ff04c7e750c5204d1c14f43/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/capture-d-ecran-2023-09-25-a-11-57-41.png",
+      "band_categories": [
+        "Chanson"
+      ],
+      "mx3_url": "https://mx3.ch/bands/50375",
+      "event_name": "Milla",
+      "venue_url": null,
+      "parsed_date": "2025-09-11T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-13T17:00:00.000Z",
+      "band_name": "Frantelin Empire",
+      "band_id": 128887,
+      "venue": "Bootshaus Eichholz",
+      "location": "Bern",
+      "location_normalized": "bern",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MTYwLCJwdXIiOiJibG9iX2lkIn19--7bf8f617fc44a8ed856202aa539a19f2d6594dde/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/img_0360.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/128887",
+      "event_name": "Balkonbr\u00e4u Jubil\u00e4um",
+      "venue_url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/5-jahre-balkonbraeu-7283078771963280056.html",
+      "parsed_date": "2025-09-13T17:00:00+00:00"
+    },
+    {
+      "date": "2025-09-20T12:00:00.000Z",
+      "band_name": "NOFNOG",
+      "band_id": 29366,
+      "venue": "Reitschule",
+      "location": "Bern",
+      "location_normalized": "bern",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEwMzM3LCJwdXIiOiJibG9iX2lkIn19--4f6a9533876407e47312fc72c7763c4261e13663/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/nofnog-promo-1-by-lola-pichel.jpg",
+      "band_categories": [
+        "Metal Punk HxC"
+      ],
+      "mx3_url": "https://mx3.ch/bands/29366",
+      "event_name": "YEAH FEST",
+      "venue_url": "https://www.yeahfest.ch/",
+      "parsed_date": "2025-09-20T12:00:00+00:00"
     }
   ],
   "Martigny": [
@@ -2511,6 +1214,23 @@
       "parsed_date": "2025-09-12T17:30:00+00:00"
     },
     {
+      "date": "2025-09-13T14:00:00.000Z",
+      "band_name": "Stephane Salerno",
+      "band_id": 121491,
+      "venue": "Whitefrontier Taproom - Electro Transat - Martigny - YAPAANDA",
+      "location": "Rue du Levant 99, 1920 Martigny",
+      "location_normalized": "ruedulevant991920martigny",
+      "canton": "VS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNzAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5383cb8ebd548fe5e83cbf0069c9c54572493a91/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Stephane%20Salerno.png",
+      "band_categories": [
+        "Techno dj dance"
+      ],
+      "mx3_url": "https://mx3.ch/bands/121491",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-13T14:00:00+00:00"
+    },
+    {
       "date": "2025-09-13T19:00:00.000Z",
       "band_name": "FVRIA",
       "band_id": 127844,
@@ -2526,6 +1246,263 @@
       "event_name": null,
       "venue_url": null,
       "parsed_date": "2025-09-13T19:00:00+00:00"
+    },
+    {
+      "date": "2025-09-26T21:00:00.000Z",
+      "band_name": "Stephane Salerno",
+      "band_id": 121491,
+      "venue": "Whitefrontier Taproom - After Foire- Martigny - YAPAANDA",
+      "location": "Rue du Levant 99, 1920 Martigny",
+      "location_normalized": "ruedulevant991920martigny",
+      "canton": "VS",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNzAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5383cb8ebd548fe5e83cbf0069c9c54572493a91/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/Stephane%20Salerno.png",
+      "band_categories": [
+        "Techno dj dance"
+      ],
+      "mx3_url": "https://mx3.ch/bands/121491",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-26T21:00:00+00:00"
+    }
+  ],
+  "Luzern": [
+    {
+      "date": "2025-09-05T18:30:00.000Z",
+      "band_name": "Glenn Garbo",
+      "band_id": 131319,
+      "venue": "Marianischer Saal Luzern",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MzQyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--636ba01df545434bed5677f74b6aab912cb061a1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/MathiasBiele_0981.jpeg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/131319",
+      "event_name": "Glenn Garbo presents \u201eResilience Avenue\u201c",
+      "venue_url": null,
+      "parsed_date": "2025-09-05T18:30:00+00:00"
+    },
+    {
+      "date": "2025-09-13T18:00:00.000Z",
+      "band_name": "Johnethen Fuchs",
+      "band_id": 129009,
+      "venue": "Raedwulf Pub",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYxNzMwLCJwdXIiOiJibG9iX2lkIn19--39e0d797ede2cf9c97c7510f54311103007fbc8f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fuchs-20241017-22.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/129009",
+      "event_name": "Johnethen Fuchs & The Spirit Animals",
+      "venue_url": "https://raedwulf.ch/event/live-johnethen-fuchs-the-spirit-animals/",
+      "parsed_date": "2025-09-13T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-14T19:00:00.000Z",
+      "band_name": "Fredy Pi.",
+      "band_id": 5381,
+      "venue": "Zentralbar Luzern",
+      "location": "Zentralbar, Zentralstrassse 10, Luzern",
+      "location_normalized": "zentralbarzentralstrassse10luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/5381",
+      "event_name": "Fredy Pi. -Solo - LIVE",
+      "venue_url": null,
+      "parsed_date": "2025-09-14T19:00:00+00:00"
+    },
+    {
+      "date": "2025-09-18T18:00:00.000Z",
+      "band_name": "Anna Mae",
+      "band_id": 42214,
+      "venue": "Jazzkantine",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwMzM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bdd2c587cada125ff4c96715ffebb95b5453f63f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/profilbild%C3%A4nderung%20nah.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/42214",
+      "event_name": "Showcase: Anna Mae meets Brian Wilkie",
+      "venue_url": "https://www.jazzkantine.com/",
+      "parsed_date": "2025-09-18T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-21T09:00:00.000Z",
+      "band_name": "Tobias Pestalozzi",
+      "band_id": 105943,
+      "venue": "Big Band Matin\u00e9e, Pepe Lienhard Big Band feat. Swing4you",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI1ODkxLCJwdXIiOiJibG9iX2lkIn19--686461931c851919f15c7775a829b4c47a554e81/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/mx3_hintergrund3.jpg",
+      "band_categories": [
+        "Jazz - musiques improvis\u00e9es"
+      ],
+      "mx3_url": "https://mx3.ch/bands/105943",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-21T09:00:00+00:00"
+    },
+    {
+      "date": "2025-09-25T18:00:00.000Z",
+      "band_name": "Rambling Ponies",
+      "band_id": 117736,
+      "venue": "Bierposten",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2NjM5LCJwdXIiOiJibG9iX2lkIn19--f0b64871968f34dfe0781b7f1d1e09dd518011ca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ramblingponies_2023_4.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/117736",
+      "event_name": null,
+      "venue_url": "https://www.kruegelbier.ch/das-sind-wir",
+      "parsed_date": "2025-09-25T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-28T19:00:00.000Z",
+      "band_name": "Fredy Pi.",
+      "band_id": 5381,
+      "venue": "Zentralbar Luzern",
+      "location": "Zentralbar, Zentralstrassse 10, Luzern",
+      "location_normalized": "zentralbarzentralstrassse10luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/5381",
+      "event_name": "Fredy Pi. -Solo - LIVE",
+      "venue_url": null,
+      "parsed_date": "2025-09-28T19:00:00+00:00"
+    },
+    {
+      "date": "2025-10-04T18:00:00.000Z",
+      "band_name": "Sixty Strings",
+      "band_id": 117251,
+      "venue": "Raedwulf, Luzern",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM5NDQzNywicHVyIjoiYmxvYl9pZCJ9fQ==--a9054edeaec1656343b90550c36be8cd2067b921/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--416e600a58b54a72dcc6b3e2cdd63433d211f7a4/Flyer%202024.JPG",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/117251",
+      "event_name": "Raedwulf",
+      "venue_url": "https://raedwulf.ch/event/live-duo-sixty-strings/",
+      "parsed_date": "2025-10-04T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-12T19:00:00.000Z",
+      "band_name": "Fredy Pi.",
+      "band_id": 5381,
+      "venue": "Zentralbar Luzern",
+      "location": "Zentralbar, Zentralstrassse 10, Luzern",
+      "location_normalized": "zentralbarzentralstrassse10luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/5381",
+      "event_name": "Fredy Pi. -Solo - LIVE",
+      "venue_url": null,
+      "parsed_date": "2025-10-12T19:00:00+00:00"
+    },
+    {
+      "date": "2025-10-18T18:30:00.000Z",
+      "band_name": "Pluquarius",
+      "band_id": 125096,
+      "venue": "Raedwulf-Pub",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA4NzU1LCJwdXIiOiJibG9iX2lkIn19--04e1c8d0c44271dbe0325b35c5477934380846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/customcolor_icon_customcolor_background.png",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/125096",
+      "event_name": null,
+      "venue_url": "https://raedwulf.ch/event/live-pluquarius-2/",
+      "parsed_date": "2025-10-18T18:30:00+00:00"
+    },
+    {
+      "date": "2025-10-24T18:00:00.000Z",
+      "band_name": "Crawling Crows",
+      "band_id": 113337,
+      "venue": "Jazzkantine Luzern",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1MTMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--80c906243592d9ed0f109114e3157c0f1ef7cf7c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/KIFF_Aarau_CrawlingCrows_2025%20_2000px_120%20_mitchproductions.ch.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/113337",
+      "event_name": "Crawling Crows Live",
+      "venue_url": "https://www.jazzkantine.com/veranstaltungen",
+      "parsed_date": "2025-10-24T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-26T20:00:00.000Z",
+      "band_name": "Fredy Pi.",
+      "band_id": 5381,
+      "venue": "Zentralbar Luzern",
+      "location": "Zentralbar, Zentralstrassse 10, Luzern",
+      "location_normalized": "zentralbarzentralstrassse10luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1Nzc3LCJwdXIiOiJibG9iX2lkIn19--3201c9cdfe621f2dd86a2bf5b1dae98b5beff472/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fredy-pi-joli-2021-bearbeitet.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/5381",
+      "event_name": "Fredy Pi. -Solo - LIVE",
+      "venue_url": null,
+      "parsed_date": "2025-10-26T20:00:00+00:00"
+    },
+    {
+      "date": "2025-10-31T20:00:00.000Z",
+      "band_name": "Rambling Ponies",
+      "band_id": 117736,
+      "venue": "Tschuppi's Wonderbar",
+      "location": "Luzern",
+      "location_normalized": "luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2NjM5LCJwdXIiOiJibG9iX2lkIn19--f0b64871968f34dfe0781b7f1d1e09dd518011ca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ramblingponies_2023_4.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/117736",
+      "event_name": null,
+      "venue_url": "https://wonder-bar.ch/",
+      "parsed_date": "2025-10-31T20:00:00+00:00"
+    },
+    {
+      "date": "2025-11-01T16:00:00.000Z",
+      "band_name": "Jo\u00ebl von Moos",
+      "band_id": 122901,
+      "venue": "Lukaskirche",
+      "location": "Morgartenstrasse 16, 6003 Luzern",
+      "location_normalized": "morgartenstrasse166003luzern",
+      "canton": "LU",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NDgyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--cbc079915573eccda3c0f3a97b0bcf8e97cbaa52/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/21JVM-hoch_1.jpg",
+      "band_categories": [
+        "World latin traditionnel"
+      ],
+      "mx3_url": "https://mx3.ch/bands/122901",
+      "event_name": "TOT\u00c4M\u00c4SS: Ein schweizerdeutsches Requiem",
+      "venue_url": "https://www.jvm-productions.ch",
+      "parsed_date": "2025-11-01T16:00:00+00:00"
     }
   ],
   "Chexbres": [
@@ -2566,6 +1543,23 @@
       "parsed_date": "2025-09-05T18:30:00+00:00"
     },
     {
+      "date": "2025-09-27T18:45:00.000Z",
+      "band_name": "ANAMEGA",
+      "band_id": 129912,
+      "venue": "bar Oops - free entry",
+      "location": "Via Carlo Maderno 24, 6900 Lugano",
+      "location_normalized": "viacarlomaderno246900lugano",
+      "canton": "TI",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Nzc0NTIzLCJwdXIiOiJibG9iX2lkIn19--4ba26fd99b08bd13734cdfec57d131ff1d2c3966/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/LogoBIANCOtrasparenteee.png",
+      "band_categories": [
+        "Metal Punk HxC"
+      ],
+      "mx3_url": "https://mx3.ch/bands/129912",
+      "event_name": "PunXubria's appetizer  - Local punk live @Oops",
+      "venue_url": "https://www.facebook.com/baroopslugano/",
+      "parsed_date": "2025-09-27T18:45:00+00:00"
+    },
+    {
       "date": "2025-10-30T19:00:00.000Z",
       "band_name": "Von Zippen",
       "band_id": 102688,
@@ -2581,6 +1575,127 @@
       "event_name": null,
       "venue_url": null,
       "parsed_date": "2025-10-30T19:00:00+00:00"
+    }
+  ],
+  "Wil": [
+    {
+      "date": "2025-09-05T19:00:00.000Z",
+      "band_name": "Taxco",
+      "band_id": 130287,
+      "venue": "Heaven Music Club",
+      "location": "Balterswil",
+      "location_normalized": "balterswil",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzMjM5MywicHVyIjoiYmxvYl9pZCJ9fQ==--c8b866fc8cacaf79dcbc8bf5c379b9aa67964d36/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/IMG_1318.jpeg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/130287",
+      "event_name": null,
+      "venue_url": "https://www.the-heaven.ch/202-termine-veranstaltungen-events-konzerte.php",
+      "parsed_date": "2025-09-05T19:00:00+00:00"
+    },
+    {
+      "date": "2025-09-06T17:00:00.000Z",
+      "band_name": "After the Story",
+      "band_id": 110556,
+      "venue": "Rock ir Sagi Leimiswil",
+      "location": "Leimiswil",
+      "location_normalized": "leimiswil",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM4MzkxLCJwdXIiOiJibG9iX2lkIn19--bc3a63ba0c3d2bab21ceea9eb123c30e0d0cbac7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/a7_02971.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/110556",
+      "event_name": "AtS am Rock ir Sagi",
+      "venue_url": "https://buehlerholz.ch/content/179/80/rock-ir-sagi",
+      "parsed_date": "2025-09-06T17:00:00+00:00"
+    },
+    {
+      "date": "2025-09-07T15:30:00.000Z",
+      "band_name": "Kaschmir",
+      "band_id": 118320,
+      "venue": "Kultur Innenundaussen",
+      "location": "Richterswil",
+      "location_normalized": "richterswil",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIwOTc0LCJwdXIiOiJibG9iX2lkIn19--144573cd2d356850357f7438be29b8739d9403ee/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/img_2029.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/118320",
+      "event_name": null,
+      "venue_url": "https://www.kulturinnenaussen.ch",
+      "parsed_date": "2025-09-07T15:30:00+00:00"
+    },
+    {
+      "date": "2025-09-27T18:00:00.000Z",
+      "band_name": "On The Rocks!",
+      "band_id": 108342,
+      "venue": "Heaven Music Club",
+      "location": "Balterswil",
+      "location_normalized": "balterswil",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgzODgzLCJwdXIiOiJibG9iX2lkIn19--abd3088b66d1d8f764f0e2aab07657bb8db6cc14/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/003a4418-1-1024x683.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/108342",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-27T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-04T18:30:00.000Z",
+      "band_name": "Andy McSean",
+      "band_id": 45465,
+      "venue": "Hotel Golf Panorama",
+      "location": "Lipperswil",
+      "location_normalized": "lipperswil",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NDI1LCJwdXIiOiJibG9iX2lkIn19--2a95baee141f0470b65e6175e9adf6cba0927ced/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ams-s2.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/45465",
+      "event_name": null,
+      "venue_url": "https://www.golfpanorama.ch/",
+      "parsed_date": "2025-10-04T18:30:00+00:00"
+    },
+    {
+      "date": "2025-11-01T19:30:00.000Z",
+      "band_name": "Andy McSean",
+      "band_id": 45465,
+      "venue": "Hotel Golf Panorama",
+      "location": "Lipperswil",
+      "location_normalized": "lipperswil",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NDI1LCJwdXIiOiJibG9iX2lkIn19--2a95baee141f0470b65e6175e9adf6cba0927ced/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ams-s2.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/45465",
+      "event_name": null,
+      "venue_url": "https://www.golfpanorama.ch/",
+      "parsed_date": "2025-11-01T19:30:00+00:00"
+    },
+    {
+      "date": "2025-12-19T20:00:00.000Z",
+      "band_name": "FOURSTROKE",
+      "band_id": 115307,
+      "venue": "Heaven",
+      "location": "Balterswil",
+      "location_normalized": "balterswil",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjMwMjMxLCJwdXIiOiJibG9iX2lkIn19--3f67f1abf2c7f1aef94599bd6d5ab24ca79817e1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/fourstroke-band.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/115307",
+      "event_name": null,
+      "venue_url": "https://www.the-heaven.ch/",
+      "parsed_date": "2025-12-19T20:00:00+00:00"
     }
   ],
   "Riehen": [
@@ -2655,6 +1770,23 @@
       "parsed_date": "2025-09-06T11:00:00+00:00"
     },
     {
+      "date": "2025-09-06T13:15:00.000Z",
+      "band_name": "N. M. A.",
+      "band_id": 105934,
+      "venue": "Stadtfest Dietikon",
+      "location": "Dietikon",
+      "location_normalized": "dietikon",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NzYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--167f2682d1661bb5c769e443003df7616243014e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/promobildyoutube.png",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/105934",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-06T13:15:00+00:00"
+    },
+    {
       "date": "2025-09-06T17:00:00.000Z",
       "band_name": "LOVEBUGS",
       "band_id": 7744,
@@ -2706,6 +1838,180 @@
       "event_name": "Mau3",
       "venue_url": "https://www.generationentandem.ch/generationenfestival-2025/",
       "parsed_date": "2025-09-12T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-16T17:30:00.000Z",
+      "band_name": "Anna Mae",
+      "band_id": 42214,
+      "venue": "Rebleuten",
+      "location": "Oberhofen am Thunersee",
+      "location_normalized": "oberhofenamthunersee",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwMzM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bdd2c587cada125ff4c96715ffebb95b5453f63f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/profilbild%C3%A4nderung%20nah.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/42214",
+      "event_name": "Special Anna Mae & Brian Wilkie",
+      "venue_url": "https://rebleuten-oberhofen.ch/",
+      "parsed_date": "2025-09-16T17:30:00+00:00"
+    }
+  ],
+  "Davos": [
+    {
+      "date": "2025-09-06T14:00:00.000Z",
+      "band_name": "NOFNOG",
+      "band_id": 29366,
+      "venue": "Box",
+      "location": "Davos",
+      "location_normalized": "davos",
+      "canton": "GR",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEwMzM3LCJwdXIiOiJibG9iX2lkIn19--4f6a9533876407e47312fc72c7763c4261e13663/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/nofnog-promo-1-by-lola-pichel.jpg",
+      "band_categories": [
+        "Metal Punk HxC"
+      ],
+      "mx3_url": "https://mx3.ch/bands/29366",
+      "event_name": "25 Jahre Box",
+      "venue_url": "https://www.boxdavos.ch/",
+      "parsed_date": "2025-09-06T14:00:00+00:00"
+    }
+  ],
+  "St. Gallen": [
+    {
+      "date": "2025-09-06T15:00:00.000Z",
+      "band_name": "WE ARE AVA",
+      "band_id": 103989,
+      "venue": "Jubil\u00e4umsfest Silberturm",
+      "location": "St. Gallen",
+      "location_normalized": "stgallen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNDM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--79b824f494510d9d323cfda5511ce7168401b49e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/WeAreAva_Pressebild-2025_09_highres.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/103989",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-06T15:00:00+00:00"
+    },
+    {
+      "date": "2025-09-12T18:00:00.000Z",
+      "band_name": "Ed Blue & The Rootstocks",
+      "band_id": 106012,
+      "venue": "Lokremise St. Gallen",
+      "location": "St. Gallen",
+      "location_normalized": "stgallen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE5MTM0LCJwdXIiOiJibG9iX2lkIn19--5296c1c62dd7dc08731a18e7d28ba09067014822/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/ed-blue-and-the-rootstocks-2024-industrie36-pino-buoro-41.jpeg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/106012",
+      "event_name": "Ed Blue & The Rootstocks",
+      "venue_url": "https://www.lokremise.ch/",
+      "parsed_date": "2025-09-12T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-19T18:30:00.000Z",
+      "band_name": "Bungle Brothers",
+      "band_id": 100363,
+      "venue": "Plattentaufe Restfunkstrahlen im R\u00fcmpeltum",
+      "location": "St.Gallen",
+      "location_normalized": "stgallen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0MjAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--25a0fff72a890a07c4fdc5d52cc03082ebb14a66/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Frontside%20Cover.png",
+      "band_categories": [
+        "Hip Hop rap new beats"
+      ],
+      "mx3_url": "https://mx3.ch/bands/100363",
+      "event_name": "R\u00fcmpeltum",
+      "venue_url": "http://www.bunglebrothers.ch",
+      "parsed_date": "2025-09-19T18:30:00+00:00"
+    },
+    {
+      "date": "2025-09-20T13:00:00.000Z",
+      "band_name": "Andy McSean",
+      "band_id": 45465,
+      "venue": "Sitter Valley",
+      "location": "St. Gallen",
+      "location_normalized": "stgallen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NDI1LCJwdXIiOiJibG9iX2lkIn19--2a95baee141f0470b65e6175e9adf6cba0927ced/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/ams-s2.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/45465",
+      "event_name": "Open Days",
+      "venue_url": "https://sittervalley.ch/open-day/",
+      "parsed_date": "2025-09-20T13:00:00+00:00"
+    },
+    {
+      "date": "2025-09-20T18:00:00.000Z",
+      "band_name": "D\u0254\u0303",
+      "band_id": 125030,
+      "venue": "Lenyland",
+      "location": "St. Gallen Bruggen",
+      "location_normalized": "stgallenbruggen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTc0OTg4LCJwdXIiOiJibG9iX2lkIn19--800f1c21425d6ee7999a9f00ea7531ccd520fd52/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/02_Gruen_Logo_Do.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/125030",
+      "event_name": "Lenyland",
+      "venue_url": null,
+      "parsed_date": "2025-09-20T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-09T19:00:00.000Z",
+      "band_name": "Q-7 three times",
+      "band_id": 108582,
+      "venue": "Grabenhalle",
+      "location": "St.Gallen",
+      "location_normalized": "stgallen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNTcyLCJwdXIiOiJibG9iX2lkIn19--8d22e83d9f262bfe600a58d896767d530f044c6d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/q73x-band_01-01_q.png",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/108582",
+      "event_name": "Q-7 Three Times",
+      "venue_url": "https://www.grabenhalle.ch/",
+      "parsed_date": "2025-10-09T19:00:00+00:00"
+    },
+    {
+      "date": "2025-10-10T18:00:00.000Z",
+      "band_name": "Running With Zombie Kids",
+      "band_id": 123683,
+      "venue": "Bahnhof Bruggen",
+      "location": "St. Gallen, Bruggen",
+      "location_normalized": "stgallenbruggen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM5Mjg2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3092db38129773b13f00c6721cd35567bb6bb7e7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Bandfoto%20Hochformat%20mx3.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/123683",
+      "event_name": "Rock Show",
+      "venue_url": "https://stadtkonzerte.ch/locations/bahnhof-bruggen-st-gallen",
+      "parsed_date": "2025-10-10T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-17T07:00:00.000Z",
+      "band_name": "Chrystal Alphorn",
+      "band_id": 102722,
+      "venue": "OLMA",
+      "location": "St. Gallen",
+      "location_normalized": "stgallen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5MDQ5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--35df513f45906ced43d8435790d8ace70b1e76a9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/PHOTO-2022-04-09-14-43-55.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/102722",
+      "event_name": "St\u00e4ndli an der OLMA auf dem ganzen Messegel\u00e4nde",
+      "venue_url": "https://www.olma-messen.ch/de/messen/olma/fuer-besucher/uebersicht",
+      "parsed_date": "2025-10-17T07:00:00+00:00"
     }
   ],
   "Trimbach": [
@@ -2753,7 +2059,7 @@
       "location": "Neuch\u00e2tel",
       "location_normalized": "neuchtel",
       "canton": "NE",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NzA5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--75e84a6b6e25e3d1fad2c000219857a77bab2703/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/PERIOD%20photo%20radio.png",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NzY4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4a615cc7b53839653bbeae4e67fad4283f16948d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/SHOOTING_RAKI_2025-7.jpg",
       "band_categories": [
         "Pop"
       ],
@@ -2778,6 +2084,76 @@
       "event_name": "Rock the Kiosk-Art pt.2!",
       "venue_url": "https://www.kiosk-art.ch/",
       "parsed_date": "2025-09-20T14:00:00+00:00"
+    }
+  ],
+  "Z\u00fcrich": [
+    {
+      "date": "2025-09-06T17:00:00.000Z",
+      "band_name": "2SILENT",
+      "band_id": 121414,
+      "venue": "GZ Heuried",
+      "location": "Z\u00fcrich",
+      "location_normalized": "zrich",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NTAwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d0c076f9519528a23aa4cb7f467748db6251af2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--416e600a58b54a72dcc6b3e2cdd63433d211f7a4/profilbild.JPG",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/121414",
+      "event_name": "2SILENT - WHERE ROSES WEEP - ALBUM RELEASE PARTY",
+      "venue_url": "https://www.2silent.com/event-details/album-release-party-where-roses-weep",
+      "parsed_date": "2025-09-06T17:00:00+00:00"
+    },
+    {
+      "date": "2025-09-06T18:00:00.000Z",
+      "band_name": "KayOz & The Mojo",
+      "band_id": 126591,
+      "venue": "Tram-Museum Z\u00fcrich",
+      "location": "Forchstrasse 260, 8008 Z\u00fcrich",
+      "location_normalized": "forchstrasse2608008zrich",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIwMTU4LCJwdXIiOiJibG9iX2lkIn19--f1c346814792d78b35e08dbbb56b7402cdf66103/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/waitin_1-kopie.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/126591",
+      "event_name": null,
+      "venue_url": "https://langenacht-zuerich.ch/museen?limit=1000&skip=0&culture=de-ch&museumsOverviewNodeId=7384&searchTerm=Trammuseum",
+      "parsed_date": "2025-09-06T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-06T19:00:00.000Z",
+      "band_name": "Dirty Slips",
+      "band_id": 100970,
+      "venue": "Erismannhoffest 2025",
+      "location": "Z\u00fcrich",
+      "location_normalized": "zrich",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MzEyLCJwdXIiOiJibG9iX2lkIn19--c22d5b2e8a2e4443f05740332ef162891ae1b7b6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/2021_dirty-slips-9485.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/100970",
+      "event_name": "Erismannhoffest 2025",
+      "venue_url": "https://erismannhoffest.ch/",
+      "parsed_date": "2025-09-06T19:00:00+00:00"
+    },
+    {
+      "date": "2025-09-11T18:00:00.000Z",
+      "band_name": "HALT",
+      "band_id": 13627,
+      "venue": "Roxy Musikbar",
+      "location": "Z\u00fcrich",
+      "location_normalized": "zrich",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzAxNjE5LCJwdXIiOiJibG9iX2lkIn19--339973f39d04d34eada505b70df12834ea9b515c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/bandlogo.png",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/13627",
+      "event_name": null,
+      "venue_url": "https://www.roxymusikbar.ch",
+      "parsed_date": "2025-09-11T18:00:00+00:00"
     }
   ],
   "Stammheim": [
@@ -2911,6 +2287,59 @@
       "event_name": null,
       "venue_url": "https://www.henrysbar.ch/baden/",
       "parsed_date": "2025-09-06T19:00:00+00:00"
+    }
+  ],
+  "Solothurn": [
+    {
+      "date": "2025-09-06T20:30:00.000Z",
+      "band_name": "CHERRYBEATS",
+      "band_id": 6522,
+      "venue": "RothusHalle",
+      "location": "Solothurn",
+      "location_normalized": "solothurn",
+      "canton": "SO",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQzNjM5LCJwdXIiOiJibG9iX2lkIn19--5bbee76866ad23cc5fef4c033caa4e8012e21b57/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/shirt_roach.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/6522",
+      "event_name": "Solothurner Musiktage",
+      "venue_url": "https://www.solothurnermusiktage.ch/",
+      "parsed_date": "2025-09-06T20:30:00+00:00"
+    },
+    {
+      "date": "2025-09-25T18:30:00.000Z",
+      "band_name": "Ramon Clau",
+      "band_id": 46738,
+      "venue": "Acoustic Nights Solothurn",
+      "location": "Solothurn",
+      "location_normalized": "solothurn",
+      "canton": "SO",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NzUxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--2889f77f1c76b736b0b0b5e19b7b0eab161559df/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/2022-08-08%2011.30.57.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/46738",
+      "event_name": null,
+      "venue_url": "https://acousticnights.ch/",
+      "parsed_date": "2025-09-25T18:30:00+00:00"
+    },
+    {
+      "date": "2025-11-22T17:00:00.000Z",
+      "band_name": "the 2 of us",
+      "band_id": 47051,
+      "venue": "Konzert - Privatanlass (Weihnachtsessen)",
+      "location": "Solothurn (VEBO Restaurant)",
+      "location_normalized": "solothurnveborestaurant",
+      "canton": "SO",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODI2ODgsInB1ciI6ImJsb2JfaWQifX0=--d7f270296c80a256da9d0d896bba1dcf7a5be0b8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_1358.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/47051",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-11-22T17:00:00+00:00"
     }
   ],
   "Scuol": [
@@ -3190,6 +2619,42 @@
       "parsed_date": "2025-09-12T18:00:00+00:00"
     }
   ],
+  "Stein": [
+    {
+      "date": "2025-09-12T18:00:00.000Z",
+      "band_name": "Threeheaded Lady",
+      "band_id": 130816,
+      "venue": "Atelier Johannestal",
+      "location": "Waltenstein",
+      "location_normalized": "waltenstein",
+      "canton": "ZH",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQyNzAyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e4f99967d7a382f676ffc393aae707488dc865b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/THL8080.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/130816",
+      "event_name": null,
+      "venue_url": "http://www.johannestal.ch",
+      "parsed_date": "2025-09-12T18:00:00+00:00"
+    },
+    {
+      "date": "2025-11-22T16:00:00.000Z",
+      "band_name": "Joe Legacy",
+      "band_id": 110080,
+      "venue": "Hotel Weissenstein Solothurn",
+      "location": "Hotel Weissenstein ",
+      "location_normalized": "hotelweissenstein",
+      "canton": "SO",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjA2MzUwLCJwdXIiOiJibG9iX2lkIn19--8325f0ec67af66828c39bd3578be19ade0728668/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_0241.jpg",
+      "band_categories": [
+        "World latin traditionnel"
+      ],
+      "mx3_url": "https://mx3.ch/bands/110080",
+      "event_name": "Privat Event  ",
+      "venue_url": null,
+      "parsed_date": "2025-11-22T16:00:00+00:00"
+    }
+  ],
   "Aarau": [
     {
       "date": "2025-09-12T18:30:00.000Z",
@@ -3207,6 +2672,23 @@
       "event_name": "Last Avenue",
       "venue_url": "https://www.aha.ag/",
       "parsed_date": "2025-09-12T18:30:00+00:00"
+    },
+    {
+      "date": "2025-09-19T19:00:00.000Z",
+      "band_name": "Dirty Slips",
+      "band_id": 100970,
+      "venue": "Markthalle Aarau",
+      "location": "Aarau",
+      "location_normalized": "aarau",
+      "canton": "AG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MzEyLCJwdXIiOiJibG9iX2lkIn19--c22d5b2e8a2e4443f05740332ef162891ae1b7b6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/2021_dirty-slips-9485.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/100970",
+      "event_name": "Markthalle Aarau",
+      "venue_url": "https://www.markthalle-aarau.ch/veranstaltungen/axIptfNp",
+      "parsed_date": "2025-09-19T19:00:00+00:00"
     },
     {
       "date": "2025-10-25T17:00:00.000Z",
@@ -3357,10 +2839,10 @@
   ],
   "Burgdorf": [
     {
-      "date": "2025-09-13T17:00:00.000Z",
+      "date": "2025-09-13T18:00:00.000Z",
       "band_name": "Ash-Lee",
       "band_id": 32681,
-      "venue": "K3 \u2013 Burgdorf",
+      "venue": "Kulturclub K3 \u2013 Burgdorf",
       "location": "Burgdorf",
       "location_normalized": "burgdorf",
       "canton": "BE",
@@ -3371,7 +2853,24 @@
       "mx3_url": "https://mx3.ch/bands/32681",
       "event_name": null,
       "venue_url": null,
-      "parsed_date": "2025-09-13T17:00:00+00:00"
+      "parsed_date": "2025-09-13T18:00:00+00:00"
+    },
+    {
+      "date": "2025-09-19T17:00:00.000Z",
+      "band_name": "We Two",
+      "band_id": 105031,
+      "venue": "Nachtmarkt Burgdorf",
+      "location": "Burgdorf",
+      "location_normalized": "burgdorf",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NjY4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--42a6b8c408e11b7a25d18585046eeebf34ea337b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/Promobild%20We%20Two%20Querformat%202.jpeg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/105031",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-19T17:00:00+00:00"
     }
   ],
   "Etoy": [
@@ -3615,6 +3114,25 @@
       "event_name": null,
       "venue_url": null,
       "parsed_date": "2025-09-19T18:00:00+00:00"
+    }
+  ],
+  "Langenthal": [
+    {
+      "date": "2025-09-19T16:00:00.000Z",
+      "band_name": "the 2 of us",
+      "band_id": 47051,
+      "venue": "Konzert - Privatanlass (Geburtstagsfeier)",
+      "location": "Langenthal (Feiss & Heimlich)",
+      "location_normalized": "langenthalfeissheimlich",
+      "canton": "BE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODI2ODgsInB1ciI6ImJsb2JfaWQifX0=--d7f270296c80a256da9d0d896bba1dcf7a5be0b8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_1358.jpg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/47051",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-09-19T16:00:00+00:00"
     }
   ],
   "Grolley": [
@@ -4019,6 +3537,23 @@
       "event_name": null,
       "venue_url": null,
       "parsed_date": "2025-09-20T18:00:00+00:00"
+    },
+    {
+      "date": "2025-10-11T19:00:00.000Z",
+      "band_name": "MIDNIGHT SCREAMERS",
+      "band_id": 102575,
+      "venue": "Bierhalle",
+      "location": "Balgach",
+      "location_normalized": "balgach",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOTIyLCJwdXIiOiJibG9iX2lkIn19--2f559b42096965281f006673eac6ce5dcf245ef0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/quadr-mit-rahmen-mx3.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/102575",
+      "event_name": null,
+      "venue_url": "https://www.bierhalle-balgach.ch/",
+      "parsed_date": "2025-10-11T19:00:00+00:00"
     }
   ],
   "Uznach": [
@@ -4093,6 +3628,25 @@
       "event_name": null,
       "venue_url": "https://poulpefestival.ch/",
       "parsed_date": "2025-09-20T20:00:00+00:00"
+    }
+  ],
+  "Port": [
+    {
+      "date": "2025-09-24T13:00:00.000Z",
+      "band_name": "Lanik",
+      "band_id": 104148,
+      "venue": "\u00c4tzm\u00e4nnig Kultur",
+      "location": "\u00c4tzm\u00e4nnig Parkplatz Sportbahnen",
+      "location_normalized": "tzmnnigparkplatzsportbahnen",
+      "canton": "SG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MTk4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--afd90bfee8076fbe4225b46b9bd61cd659787fc6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/newsletter%2012.3.jpg",
+      "band_categories": [
+        "Chanson"
+      ],
+      "mx3_url": "https://mx3.ch/bands/104148",
+      "event_name": "Duo Doublette - Clownkonzert",
+      "venue_url": "https://www.atzmaennig-kultur.ch/",
+      "parsed_date": "2025-09-24T13:00:00+00:00"
     }
   ],
   "St. Moritz": [
@@ -4376,6 +3930,25 @@
       "parsed_date": "2025-09-28T15:00:00+00:00"
     }
   ],
+  "Vernier": [
+    {
+      "date": "2025-09-28T18:00:00.000Z",
+      "band_name": "OROBOROS",
+      "band_id": 124120,
+      "venue": "Porteous",
+      "location": "chemin de la verseuse 17bis, 1219 Vernier",
+      "location_normalized": "chemindelaverseuse17bis1219vernier",
+      "canton": "GE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NzY5LCJwdXIiOiJibG9iX2lkIn19--6bec43d7deb59f4624f93ff0c519b0a6f3da1624/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/image-05-11-24-a-22-18.jpeg",
+      "band_categories": [
+        "Metal Punk HxC"
+      ],
+      "mx3_url": "https://mx3.ch/bands/124120",
+      "event_name": "Metal @Porteous",
+      "venue_url": "https://linktr.ee/porteous____?fbclid=PAZXh0bgNhZW0CMTEAAabXk9s5UcPEbObmF_1irU6Rp5RF0OvtAtZUOnFbWvJDxSbEGBieFoJOhwM_aem_sU3upUDfWb4NJzBRN2m5Mw",
+      "parsed_date": "2025-09-28T18:00:00+00:00"
+    }
+  ],
   "Pf\u00e4fers": [
     {
       "date": "2025-10-04T12:00:00.000Z",
@@ -4448,6 +4021,42 @@
       "event_name": null,
       "venue_url": "https://www.ref-pratteln-augst.ch",
       "parsed_date": "2025-10-17T17:30:00+00:00"
+    }
+  ],
+  "Bischofszell": [
+    {
+      "date": "2025-10-04T18:00:00.000Z",
+      "band_name": "Taxco",
+      "band_id": 130287,
+      "venue": "Aula Sandb\u00e4nkli",
+      "location": "Bischofszell ",
+      "location_normalized": "bischofszell",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzMjM5MywicHVyIjoiYmxvYl9pZCJ9fQ==--c8b866fc8cacaf79dcbc8bf5c379b9aa67964d36/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpbGwiOls4MCw4MF0sInN0cmlwIjp0cnVlfSwicHVyIjoidmFyaWF0aW9uIn19--fc1cad899cc5e215dde949d48e32f41fc2cfbec2/IMG_1318.jpeg",
+      "band_categories": [
+        "Folk country blues"
+      ],
+      "mx3_url": "https://mx3.ch/bands/130287",
+      "event_name": null,
+      "venue_url": null,
+      "parsed_date": "2025-10-04T18:00:00+00:00"
+    },
+    {
+      "date": "2025-12-06T20:00:00.000Z",
+      "band_name": "MIDNIGHT SCREAMERS",
+      "band_id": 102575,
+      "venue": "Dart Club \"Schlarpen\"",
+      "location": "Bischofszell",
+      "location_normalized": "bischofszell",
+      "canton": "TG",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOTIyLCJwdXIiOiJibG9iX2lkIn19--2f559b42096965281f006673eac6ce5dcf245ef0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/quadr-mit-rahmen-mx3.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/102575",
+      "event_name": null,
+      "venue_url": "https://www.schlarpe-club.ch/",
+      "parsed_date": "2025-12-06T20:00:00+00:00"
     }
   ],
   "Dornach": [
@@ -4611,23 +4220,6 @@
       "event_name": "\ud83c\udfb8 MORPHELANCOLIE revient avec Lenny-K ! \ud83c\udfb8",
       "venue_url": "https://www.cavebernunes.ch/nos-evenements-caves-des-bernunes",
       "parsed_date": "2025-10-11T17:00:00+00:00"
-    },
-    {
-      "date": "2025-10-16T17:00:00.000Z",
-      "band_name": "The Last Wolf",
-      "band_id": 8735,
-      "venue": "Place de S\u00e9quo\u00efa",
-      "location": "Sierre",
-      "location_normalized": "sierre",
-      "canton": "VS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQ3NjkxLCJwdXIiOiJibG9iX2lkIn19--9be548633ea5f70691776702459ebdbd3e2ca242/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/59ad1870-b315-45b4-b1ec-6dbd15924dbc.jpg",
-      "band_categories": [
-        "Rock"
-      ],
-      "mx3_url": "https://mx3.ch/bands/8735",
-      "event_name": "Je Dis S\u00e9quo\u00efa",
-      "venue_url": null,
-      "parsed_date": "2025-10-16T17:00:00+00:00"
     }
   ],
   "Chur": [
@@ -4739,7 +4331,7 @@
       "date": "2025-10-25T18:00:00.000Z",
       "band_name": "NOW ACCESS",
       "band_id": 128406,
-      "venue": "Banshees",
+      "venue": "Banshees Fribourg",
       "location": "Rue d'Or 5, 1700 Fribourg",
       "location_normalized": "ruedor51700fribourg",
       "canton": "FR",
@@ -4895,23 +4487,40 @@
       "parsed_date": "2025-11-14T19:30:00+00:00"
     }
   ],
-  "Saint-Maurice": [
+  "Lancy": [
     {
-      "date": "2025-10-12T15:00:00.000Z",
-      "band_name": "Solam",
-      "band_id": 7473,
-      "venue": "Espace Parall\u00e8le",
-      "location": "Saint-Maurice",
-      "location_normalized": "saintmaurice",
-      "canton": "VS",
-      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ0OTc5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--9c360565f3b4311a7b81b8fed1801826f581bbb7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/Solam_portrait%20re%CC%81seaux%20et%20accueil%20aou%CC%82t%202024.jpg",
+      "date": "2025-10-11T19:00:00.000Z",
+      "band_name": "Stane",
+      "band_id": 103169,
+      "venue": "Villa Tacchini",
+      "location": "11 chemin de l'Avenir 1213 Petit-Lancy",
+      "location_normalized": "11chemindelavenir1213petitlancy",
+      "canton": "GE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg3MjgyLCJwdXIiOiJibG9iX2lkIn19--13c45e924b810907b23de7eea89f953e02ba2e26/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1b46e06028c7f83b9770a9e95d38a862630e75c4/img_5255-copie.png",
       "band_categories": [
-        "Chanson"
+        "Rock"
       ],
-      "mx3_url": "https://mx3.ch/bands/7473",
-      "event_name": "EliSol feat. Guy Michel",
-      "venue_url": "https://www.espaceparallele.net/index.php/programme",
-      "parsed_date": "2025-10-12T15:00:00+00:00"
+      "mx3_url": "https://mx3.ch/bands/103169",
+      "event_name": "Rock'n'Truck Festival",
+      "venue_url": null,
+      "parsed_date": "2025-10-11T19:00:00+00:00"
+    },
+    {
+      "date": "2025-11-21T21:00:00.000Z",
+      "band_name": "CAROLYN",
+      "band_id": 113875,
+      "venue": "Villa Tacchini",
+      "location": "Petit-Lancy",
+      "location_normalized": "petitlancy",
+      "canton": "GE",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUwOTY0LCJwdXIiOiJibG9iX2lkIn19--072829db5c8b0c38ced0d8ffccea166b34c0d635/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/dsc_9617.jpg",
+      "band_categories": [
+        "Rock"
+      ],
+      "mx3_url": "https://mx3.ch/bands/113875",
+      "event_name": "Festival G\u00e9n\u00e9rations Music",
+      "venue_url": "https://villa-tacchini.ch",
+      "parsed_date": "2025-11-21T21:00:00+00:00"
     }
   ],
   "Birsfelden": [
@@ -5039,6 +4648,42 @@
       "event_name": "Twenty Two Toads",
       "venue_url": "https://wilddonkey.weebly.com",
       "parsed_date": "2025-10-18T19:00:00+00:00"
+    }
+  ],
+  "Liestal": [
+    {
+      "date": "2025-10-24T18:00:00.000Z",
+      "band_name": "Halunke",
+      "band_id": 36567,
+      "venue": "Elefantehuus",
+      "location": "Liestal",
+      "location_normalized": "liestal",
+      "canton": "BL",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MTIwLCJwdXIiOiJibG9iX2lkIn19--cc619cde33e10e99ca691742a2efbdcda6e96997/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/01_halunke_2025_quadrat_3000x3000.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/36567",
+      "event_name": "HALUNKE Jubil\u00e4umstour",
+      "venue_url": "https://www.elefantehuus.ch/veranstaltungen",
+      "parsed_date": "2025-10-24T18:00:00+00:00"
+    },
+    {
+      "date": "2026-05-30T19:00:00.000Z",
+      "band_name": "LAESSIG",
+      "band_id": 118753,
+      "venue": "Guggenheim Liestal",
+      "location": "Liestal",
+      "location_normalized": "liestal",
+      "canton": "BL",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMzMTczLCJwdXIiOiJibG9iX2lkIn19--841a9f6de10315cd380cfdfaa23007b3fc79fe5e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/laessig-83.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/118753",
+      "event_name": "LAESSIG",
+      "venue_url": "https://guggenheimliestal.ch/veranstaltungskalender-2/",
+      "parsed_date": "2026-05-30T19:00:00+00:00"
     }
   ],
   "Seon": [
@@ -5322,6 +4967,25 @@
       "event_name": "Locque feat. The Black Salt",
       "venue_url": "https://www.dae3stock.ch/",
       "parsed_date": "2025-11-14T19:00:00+00:00"
+    }
+  ],
+  "Sissach": [
+    {
+      "date": "2025-11-15T19:00:00.000Z",
+      "band_name": "Keepers and Clown",
+      "band_id": 104174,
+      "venue": "KiK Kultur im Keller",
+      "location": "Sissach",
+      "location_normalized": "sissach",
+      "canton": "BL",
+      "band_image_thumb": "https://mx3.ch/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1OTIxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--d549c0e13741fdbad52fe6fc9d00606678991b4a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXSwic3RyaXAiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ed4dbe7f815c468914de1f08301ea38f97a6385/KnC_Apr_25.jpg",
+      "band_categories": [
+        "Pop"
+      ],
+      "mx3_url": "https://mx3.ch/bands/104174",
+      "event_name": null,
+      "venue_url": "https://kik-sissach.jimdoweb.com/",
+      "parsed_date": "2025-11-15T19:00:00+00:00"
     }
   ],
   "S\u00e2les": [

@@ -6,20 +6,13 @@ import streamlit as st
 import pandas as pd
 import folium
 import json
-from streamlit_folium import st_folium, folium_static
-from datetime import datetime, timedelta
+from streamlit_folium import folium_static
+from datetime import datetime
 import logging
 import threading
 import os
 
 from config import APP_TITLE, APP_DESCRIPTION, MAP_CENTER, MAP_ZOOM
-from data_fetcher import fetch_all_swiss_gigs, process_gigs_data
-from geo_processor import (
-    load_swiss_municipalities, 
-    match_gigs_to_municipalities,
-    create_municipality_lookup,
-    simplify_geojson
-)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -310,8 +303,6 @@ def main():
     
     # Stats
     total_gigs = len(processed_gigs)
-    total_municipalities_with_gigs = len(municipality_gigs)
-    total_municipalities = metadata.get('total_municipalities', 2175)
     
     st.metric("Total Gigs", total_gigs)
     
